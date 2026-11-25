@@ -1,0 +1,1251 @@
+ID_Cliente,Fecha_Alta,Plan_Tarifario,Cargo_Mensual,Consumo_Datos_GB,Reclamos_6M,Metodo_Pago,Tipo_Contrato,Score_Crediticio,Soporte_Prioritario,Fuga_Cliente
+CLI-00001,18/09/2024,Intermedio,S/78.82,42.4 GB,1,App_Bancaria,Anual_12M,510.0,No,0
+CLI-00002,2025-03-30,Ultra,S/187.18,57.6 GB,3.0,Debito_Automatico,Mensual,-999,No,1
+CLI-00003,2023-07-14,Premium,S/ 111.78,32.6 GB,ninguno,Agente_Efectivo,Mensual,490.0,No,Si
+CLI-00004,2025-01-02,Intermedio,S/ 101.51,50.5 GB,5,Debito_Automatico,Mensual,800.0,0,1
+CLI-00005,08/02/2026,Basico,S/ 49.42,37.1 GB,2,App_Bancaria,Mensual,726.0,True,No
+CLI-00006,2024-01-09,Basico,S/ 32.73,16.2 GB,0,Debito_Automatico,Anual_12M,466.0,No,0
+CLI-00007,30/12/2020,Basico,S/51.44,46.4 GB,2.0,App_Bancaria,Mensual,653.0,0,0
+CLI-00008,08/04/2021,Premium,S/ 111.73,31.8 GB,3,App_Bancaria,Mensual,569.0,1,1
+CLI-00009,04/10/2022,Intermedio,S/89.99,49.0 GB,1,Debito_Automatico,Mensual,584.0,0,0
+CLI-00010,06/11/2020,Premium,S/112.07,73.0 GB,ninguno,Debito_Automatico,Bianual_24M,652.0,0,No
+CLI-00011,2023-06-13,Basico,S/44.55,26.0 GB,1,Debito_Automatico,Bianual_24M,715.0,1,No
+CLI-00012,11/12/2022,Ultra,S/147.23,16.9 GB,3,App_Bancaria,Mensual,578.0,0,Si
+CLI-00013,05/04/2021,Premium,S/ 114.47,20.9 GB,0,Agente_Efectivo,Anual_12M,579.0,1,No
+CLI-00014,30/05/2023,Basico,S/ 20.81,45.5 GB,0,Debito_Automatico,Mensual,653.0,False,No
+CLI-00015,08/12/2022,Basico,S/ 30.89,45.0 GB,1,App_Bancaria,Mensual,671.0,True,No
+CLI-00016,25/09/2025,Basico,S/ 59.02,46.9 GB,0,Debito_Automatico,Anual_12M,529.0,0,1
+CLI-00017,2022-08-04,Basico,S/59.33,25.8 GB,1,App_Bancaria,Bianual_24M,775.0,Si,0
+CLI-00018,06/06/2024,Intermedio,S/ 85.01,34.8 GB,1,Agente_Efectivo,Bianual_24M,562.0,Si,0
+CLI-00019,26/01/2023,Intermedio,S/ 68.30,32.8 GB,ninguno,Debito_Automatico,Anual_12M,707.0,Si,No
+CLI-00020,17/05/2025,Basico,S/49.33,69.1 GB,ninguno,App_Bancaria,Mensual,661.0,0,0
+CLI-00021,30/10/2024,Intermedio,S/ 79.86,24.1 GB,1,Debito_Automatico,Anual_12M,675.0,No,No
+CLI-00022,2021-01-12,Basico,S/36.00,22.3 GB,3,Debito_Automatico,Mensual,564.0,False,No
+CLI-00023,22/11/2025,Basico,S/ 67.94,24.4 GB,1,Debito_Automatico,Anual_12M,465.0,False,0
+CLI-00024,27/11/2023,Intermedio,S/ 90.43,57.5 GB,2,Debito_Automatico,Mensual,618.0,False,0
+CLI-00025,2025-12-24,Intermedio,S/77.25,50.3 GB,1.0,App_Bancaria,Anual_12M,618.0,True,No
+CLI-00026,18/01/2026,Premium,S/120.22,14.0 GB,0,App_Bancaria,Mensual,534.0,0,No
+CLI-00027,2025-03-07,Basico,S/ 52.40,13.5 GB,0,App_Bancaria,Mensual,703.0,True,No
+CLI-00028,08/03/2025,Intermedio,S/ 55.40,40.9 GB,1,Debito_Automatico,Bianual_24M,615.0,No,0
+CLI-00029,2023-11-25,Intermedio,S/ 76.93,31.2 GB,ninguno,Debito_Automatico,Mensual,547.0,No,No
+CLI-00030,03/07/2022,Basico,S/ 41.72,8.5 GB,1,App_Bancaria,Anual_12M,673.0,False,No
+CLI-00031,2025-08-06,Intermedio,S/ 67.88,14.1 GB,1,Agente_Efectivo,Mensual,675.0,True,0
+CLI-00032,2022-09-04,Basico,S/46.53,32.2 GB,0,Debito_Automatico,Mensual,556.0,False,No
+CLI-00033,2022-12-06,Basico,S/ 71.47,112.5 GB,1,Agente_Efectivo,Mensual,731.0,Si,1
+CLI-00034,2024-09-05,Ultra,S/ 177.59,46.5 GB,1,App_Bancaria,Mensual,822.0,Si,No
+CLI-00035,24/09/2023,Ultra,S/163.05,17.6 GB,,App_Bancaria,Bianual_24M,-999,True,0
+CLI-00036,2022-06-11,Premium,S/ 126.77,68.2 GB,2,App_Bancaria,Mensual,603.0,No,Si
+CLI-00037,31/07/2025,Basico,,16.2 GB,1,Debito_Automatico,Bianual_24M,650.0,No,0
+CLI-00038,21/03/2021,Basico,S/61.00,22.3 GB,1,Debito_Automatico,Anual_12M,825.0,0,No
+CLI-00039,13/03/2026,Premium,S/ 120.62,67.0 GB,1,App_Bancaria,Mensual,554.0,True,No
+CLI-00040,19/04/2021,Intermedio,S/72.14,16.1 GB,2,Debito_Automatico,Anual_12M,535.0,False,0
+CLI-00041,2025-11-30,Basico,S/ 58.28,73.1 GB,2,Agente_Efectivo,Anual_12M,535.0,0,0
+CLI-00042,2022-02-18,Intermedio,S/ 84.62,6.7 GB,0,App_Bancaria,Anual_12M,730.0,1,No
+CLI-00043,19/09/2026,Basico,S/ 60.64,41.9 GB,3,Debito_Automatico,Mensual,556.0,Si,Si
+CLI-00044,2021-08-29,Ultra,,36.6 GB,ninguno,App_Bancaria,Mensual,543.0,0,Si
+CLI-00045,20/05/2021,Basico,S/ 62.49,55.6 GB,1,Debito_Automatico,Bianual_24M,641.0,False,No
+CLI-00046,2023-10-18,Premium,,N/D,0,App_Bancaria,Bianual_24M,648.0,False,No
+CLI-00047,10/10/2024,Basico,S/65.71,37.2 GB,ninguno,App_Bancaria,Bianual_24M,716.0,False,No
+CLI-00048,2024-08-14,Intermedio,S/82.27,21.3 GB,,Agente_Efectivo,Mensual,628.0,Si,No
+CLI-00049,18/05/2023,Intermedio,S/ 104.80,27.7 GB,0,Agente_Efectivo,Anual_12M,642.0,Si,0
+CLI-00050,2025-04-22,Basico,S/41.63,69.3 GB,1,App_Bancaria,Mensual,611.0,False,Si
+CLI-00051,2024-07-27,Ultra,S/190.73,41.3 GB,ninguno,App_Bancaria,Mensual,503.0,False,1
+CLI-00052,24/10/2025,Premium,S/122.27,45.8 GB,0,Agente_Efectivo,Mensual,602.0,No,No
+CLI-00053,2023-03-10,Ultra,S/ 162.08,37.5 GB,1,Debito_Automatico,Anual_12M,-999,No,No
+CLI-00054,08/03/2026,Ultra,S/164.09,29.0 GB,0,Debito_Automatico,Mensual,580.0,0,0
+CLI-00055,31/12/2024,Intermedio,S/ 76.06,8.8 GB,2,Debito_Automatico,Mensual,479.0,Si,No
+CLI-00056,2023-03-01,Ultra,S/ 174.99,62.7 GB,1,Debito_Automatico,Bianual_24M,518.0,No,0
+CLI-00057,03/06/2021,Basico,S/56.17,48.4 GB,1.0,App_Bancaria,Mensual,616.0,False,No
+CLI-00058,2024-03-27,Basico,S/43.02,33.2 GB,ninguno,App_Bancaria,Mensual,704.0,True,No
+CLI-00059,13/01/2022,Basico,S/49.61,19.1 GB,1,App_Bancaria,Mensual,771.0,False,No
+CLI-00060,26/02/2021,Basico,S/75.61,50.7 GB,2,Debito_Automatico,Bianual_24M,603.0,1,No
+CLI-00061,10/08/2025,Intermedio,S/ 100.63,18.1 GB,1,App_Bancaria,Anual_12M,555.0,Si,0
+CLI-00062,2021-12-18,Basico,S/55.14,46.3 GB,ninguno,Debito_Automatico,Mensual,586.0,0,0
+CLI-00063,2022-12-14,Premium,S/ 120.36,22.0 GB,2,App_Bancaria,Bianual_24M,526.0,No,0
+CLI-00064,29/09/2023,Intermedio,,39.0 GB,4,App_Bancaria,Bianual_24M,691.0,Si,No
+CLI-00065,2020-11-06,Basico,S/57.26,65.5 GB,2,Debito_Automatico,Mensual,812.0,False,0
+CLI-00066,2022-07-10,Intermedio,,N/D,0,Debito_Automatico,Anual_12M,558.0,No,No
+CLI-00067,28/10/2023,Basico,S/46.81,43.6 GB,4,Debito_Automatico,Anual_12M,513.0,0,1
+CLI-00068,08/09/2021,Premium,S/ 99.88,83.1 GB,ninguno,Agente_Efectivo,Anual_12M,711.0,False,No
+CLI-00069,2023-09-09,Basico,S/54.69,40.5 GB,ninguno,Agente_Efectivo,Mensual,649.0,1,0
+CLI-00070,2024-02-18,Ultra,S/ 177.67,17.8 GB,0,App_Bancaria,Bianual_24M,650.0,1,0
+CLI-00071,2026-06-22,Premium,S/ 114.10,47.2 GB,3.0,Debito_Automatico,Anual_12M,763.0,True,0
+CLI-00072,2023-07-21,Basico,S/68.79,27.0 GB,ninguno,App_Bancaria,Mensual,497.0,Si,0
+CLI-00073,2021-07-17,Basico,S/ 35.19,74.1 GB,0,App_Bancaria,Mensual,495.0,1,Si
+CLI-00074,2021-12-12,Premium,S/102.33,26.3 GB,ninguno,Agente_Efectivo,Mensual,605.0,Si,1
+CLI-00075,23/11/2024,Premium,S/122.59,26.5 GB,1.0,Debito_Automatico,Mensual,626.0,False,1
+CLI-00076,13/05/2021,Premium,S/132.47,43.1 GB,ninguno,Debito_Automatico,Anual_12M,588.0,No,0
+CLI-00077,2024-01-18,Premium,S/140.11,38.5 GB,1,App_Bancaria,Mensual,841.0,No,0
+CLI-00078,2023-09-23,Basico,S/ 44.39,46.8 GB,1,App_Bancaria,Mensual,592.0,True,No
+CLI-00079,09/05/2022,Intermedio,S/92.84,24.8 GB,1,Debito_Automatico,Anual_12M,570.0,No,No
+CLI-00080,2022-08-22,Basico,,50.8 GB,,Debito_Automatico,Mensual,631.0,1,Si
+CLI-00081,08/11/2021,Premium,S/ 117.83,N/D,2,App_Bancaria,Bianual_24M,707.0,0,0
+CLI-00082,05/07/2023,Intermedio,S/ 90.50,23.1 GB,2,Agente_Efectivo,Mensual,555.0,1,0
+CLI-00083,15/03/2024,Basico,S/57.73,45.6 GB,0,Agente_Efectivo,Mensual,607.0,No,No
+CLI-00084,2022-11-07,Basico,S/30.98,8.7 GB,1,App_Bancaria,Mensual,710.0,0,No
+CLI-00085,06/11/2023,Basico,S/67.62,41.9 GB,0,App_Bancaria,Mensual,715.0,No,No
+CLI-00086,03/05/2021,Basico,S/66.46,38.0 GB,1.0,Debito_Automatico,Mensual,640.0,Si,No
+CLI-00087,28/02/2021,Premium,S/112.39,20.8 GB,0,App_Bancaria,Anual_12M,838.0,No,No
+CLI-00088,03/04/2023,Intermedio,S/84.65,41.9 GB,2,App_Bancaria,Bianual_24M,798.0,No,0
+CLI-00089,2023-06-18,Ultra,S/ 175.83,21.5 GB,2,App_Bancaria,Mensual,493.0,True,1
+CLI-00090,2025-02-16,Intermedio,S/83.03,48.6 GB,1,App_Bancaria,Anual_12M,468.0,0,Si
+CLI-00091,11/11/2022,Basico,S/43.30,39.6 GB,3,Debito_Automatico,Anual_12M,692.0,0,0
+CLI-00092,10/12/2023,Premium,S/ 111.84,55.0 GB,2,Debito_Automatico,Bianual_24M,743.0,No,0
+CLI-00093,16/02/2024,Premium,S/119.59,93.9 GB,2,Debito_Automatico,Mensual,600.0,False,No
+CLI-00094,17/07/2023,Intermedio,S/ 93.97,39.9 GB,2,Debito_Automatico,Mensual,575.0,No,Si
+CLI-00095,2024-07-09,Premium,S/126.42,59.1 GB,1.0,Debito_Automatico,Mensual,546.0,0,No
+CLI-00096,2025-08-25,Intermedio,S/75.45,15.0 GB,2,Agente_Efectivo,Anual_12M,515.0,0,Si
+CLI-00097,23/04/2024,Intermedio,S/89.16,N/D,1,App_Bancaria,Bianual_24M,722.0,False,0
+CLI-00098,2026-07-27,Intermedio,S/45.72,6.1 GB,1,App_Bancaria,Mensual,586.0,No,0
+CLI-00099,07/07/2026,Basico,S/63.69,47.2 GB,1,Agente_Efectivo,Mensual,647.0,False,1
+CLI-00100,2021-02-22,Basico,S/29.02,15.2 GB,ninguno,Agente_Efectivo,Bianual_24M,456.0,No,0
+CLI-00101,01/08/2023,Basico,S/ 45.55,51.0 GB,0,App_Bancaria,Bianual_24M,710.0,True,No
+CLI-00102,16/01/2022,Intermedio,S/ 66.46,62.5 GB,0,Agente_Efectivo,Bianual_24M,673.0,0,0
+CLI-00103,2022-12-28,Basico,S/34.36,45.2 GB,2,Debito_Automatico,Anual_12M,499.0,True,No
+CLI-00104,2022-04-03,Intermedio,S/93.83,8.7 GB,3,Debito_Automatico,Mensual,643.0,1,0
+CLI-00105,08/04/2026,Ultra,S/164.29,25.0 GB,1,App_Bancaria,Anual_12M,620.0,1,0
+CLI-00106,21/12/2022,Basico,S/ 54.06,7.6 GB,2,App_Bancaria,Anual_12M,579.0,No,No
+CLI-00107,08/04/2024,Intermedio,S/79.34,89.9 GB,1,App_Bancaria,Mensual,359.0,True,Si
+CLI-00108,2025-02-24,Premium,S/125.62,44.3 GB,2.0,Debito_Automatico,Anual_12M,561.0,False,No
+CLI-00109,2024-01-17,Basico,S/ 50.82,N/D,1,Debito_Automatico,Anual_12M,-999,False,0
+CLI-00110,2023-08-28,Basico,S/34.50,16.4 GB,3,App_Bancaria,Mensual,571.0,True,No
+CLI-00111,2020-10-24,Basico,S/61.86,18.5 GB,ninguno,Debito_Automatico,Anual_12M,600.0,Si,0
+CLI-00112,06/02/2021,Basico,S/43.97,28.8 GB,ninguno,App_Bancaria,Anual_12M,755.0,No,0
+CLI-00113,01/06/2023,Ultra,S/151.22,55.1 GB,ninguno,App_Bancaria,Bianual_24M,613.0,No,No
+CLI-00114,2025-11-19,Premium,S/ 114.76,19.5 GB,1,App_Bancaria,Mensual,431.0,0,1
+CLI-00115,2022-08-22,Intermedio,S/97.91,85.8 GB,2,Agente_Efectivo,Mensual,603.0,0,Si
+CLI-00116,2021-03-08,Ultra,S/180.10,11.3 GB,ninguno,Agente_Efectivo,Anual_12M,629.0,0,Si
+CLI-00117,28/02/2021,Premium,S/ 115.72,28.6 GB,0,App_Bancaria,Mensual,546.0,No,0
+CLI-00118,18/05/2025,Basico,S/45.71,67.1 GB,1,App_Bancaria,Anual_12M,686.0,0,0
+CLI-00119,20/03/2021,Ultra,S/166.04,16.3 GB,0,App_Bancaria,Anual_12M,488.0,False,0
+CLI-00120,2026-06-06,Intermedio,S/ 104.82,N/D,2,Debito_Automatico,Mensual,608.0,0,No
+CLI-00121,23/10/2024,Premium,S/ 124.48,35.6 GB,1,Debito_Automatico,Anual_12M,487.0,Si,No
+CLI-00122,2026-08-19,Ultra,S/ 175.06,16.6 GB,2,Debito_Automatico,Anual_12M,593.0,No,Si
+CLI-00123,2025-11-23,Basico,S/62.26,9.7 GB,1,App_Bancaria,Mensual,684.0,No,0
+CLI-00124,11/08/2025,Basico,S/52.77,20.2 GB,ninguno,App_Bancaria,Bianual_24M,605.0,No,No
+CLI-00125,27/09/2023,Basico,S/ 46.79,62.5 GB,1,Agente_Efectivo,Bianual_24M,600.0,True,0
+CLI-00126,2025-11-11,Intermedio,S/ 77.54,28.5 GB,,Debito_Automatico,Anual_12M,-999,0,No
+CLI-00127,2022-10-24,Premium,S/ 119.04,16.1 GB,,Debito_Automatico,Anual_12M,627.0,1,No
+CLI-00128,2021-04-25,Premium,S/119.45,16.4 GB,1,Agente_Efectivo,Mensual,682.0,Si,1
+CLI-00129,2026-07-21,Basico,S/58.63,53.4 GB,0,Debito_Automatico,Bianual_24M,683.0,1,0
+CLI-00130,14/05/2022,Intermedio,S/80.52,20.6 GB,3,App_Bancaria,Anual_12M,748.0,False,1
+CLI-00131,12/05/2025,Intermedio,S/88.69,41.3 GB,0,App_Bancaria,Anual_12M,635.0,Si,No
+CLI-00132,2024-11-14,Basico,S/48.93,26.4 GB,2,App_Bancaria,Bianual_24M,471.0,0,1
+CLI-00133,2024-12-15,Basico,S/ 50.84,39.1 GB,1,Debito_Automatico,Mensual,697.0,1,0
+CLI-00134,2022-07-13,Basico,S/25.92,53.5 GB,5,Debito_Automatico,Bianual_24M,741.0,0,0
+CLI-00135,20/03/2023,Ultra,S/180.90,55.9 GB,1,Debito_Automatico,Mensual,842.0,1,0
+CLI-00136,2022-12-03,Basico,S/54.06,17.4 GB,1,App_Bancaria,Mensual,-999,Si,Si
+CLI-00137,03/07/2022,Intermedio,S/91.88,29.0 GB,1,App_Bancaria,Mensual,-999,No,No
+CLI-00138,2023-10-23,Premium,S/85.14,23.4 GB,2,Debito_Automatico,Bianual_24M,637.0,False,0
+CLI-00139,12/11/2025,Intermedio,S/104.96,59.8 GB,1,App_Bancaria,Bianual_24M,596.0,Si,0
+CLI-00140,15/01/2024,Ultra,S/168.22,17.2 GB,1,Agente_Efectivo,Anual_12M,583.0,1,No
+CLI-00141,18/04/2021,Ultra,S/183.20,40.7 GB,1,Debito_Automatico,Anual_12M,610.0,1,0
+CLI-00142,16/10/2024,Basico,S/37.42,39.5 GB,ninguno,App_Bancaria,Anual_12M,736.0,0,0
+CLI-00143,30/12/2025,Intermedio,S/ 87.25,18.3 GB,1,App_Bancaria,Bianual_24M,477.0,False,1
+CLI-00144,04/05/2026,Basico,S/ 37.26,9.7 GB,1,Debito_Automatico,Mensual,530.0,No,No
+CLI-00145,2024-02-21,Basico,S/42.41,21.2 GB,1,Debito_Automatico,Mensual,730.0,Si,No
+CLI-00146,2022-08-18,Basico,S/ 72.87,26.6 GB,1,App_Bancaria,Mensual,751.0,No,Si
+CLI-00147,2026-01-17,Intermedio,S/ 77.61,27.6 GB,1,Agente_Efectivo,Anual_12M,561.0,1,0
+CLI-00148,17/05/2024,Intermedio,S/ 82.51,26.0 GB,2,Agente_Efectivo,Anual_12M,769.0,1,1
+CLI-00149,29/06/2023,Basico,S/60.34,46.3 GB,0,App_Bancaria,Mensual,708.0,0,0
+CLI-00150,2024-11-14,Basico,S/55.85,50.5 GB,0,App_Bancaria,Mensual,596.0,False,No
+CLI-00151,27/11/2025,Ultra,S/ 171.71,57.9 GB,ninguno,App_Bancaria,Bianual_24M,401.0,True,No
+CLI-00152,22/08/2022,Basico,S/ 54.28,19.9 GB,ninguno,App_Bancaria,Mensual,470.0,0,0
+CLI-00153,17/06/2025,Basico,S/78.74,29.9 GB,0,App_Bancaria,Anual_12M,561.0,False,1
+CLI-00154,11/07/2024,Intermedio,S/ 79.21,69.4 GB,1,Debito_Automatico,Bianual_24M,688.0,False,0
+CLI-00155,09/06/2024,Ultra,S/ 172.31,29.0 GB,1,App_Bancaria,Mensual,689.0,False,1
+CLI-00156,2023-07-26,Basico,S/62.51,22.8 GB,2,App_Bancaria,Mensual,578.0,No,0
+CLI-00157,2024-12-05,Premium,S/133.17,43.8 GB,ninguno,App_Bancaria,Anual_12M,599.0,False,Si
+CLI-00158,20/10/2021,Premium,S/ 134.14,47.4 GB,ninguno,Agente_Efectivo,Bianual_24M,617.0,0,No
+CLI-00159,2022-10-20,Basico,S/57.56,29.1 GB,0,Debito_Automatico,Anual_12M,600.0,No,No
+CLI-00160,2021-11-30,Premium,S/ 106.18,24.8 GB,1,Debito_Automatico,Bianual_24M,635.0,True,No
+CLI-00161,17/04/2023,Intermedio,S/99.50,15.8 GB,0,Debito_Automatico,Mensual,617.0,0,0
+CLI-00162,13/10/2025,Intermedio,S/ 66.14,25.5 GB,0,Agente_Efectivo,Anual_12M,469.0,True,No
+CLI-00163,17/08/2021,Intermedio,S/ 83.53,12.7 GB,2,App_Bancaria,Anual_12M,601.0,1,No
+CLI-00164,2021-03-18,Intermedio,S/70.85,58.5 GB,1,Debito_Automatico,Bianual_24M,618.0,0,0
+CLI-00165,06/04/2026,Basico,S/49.13,10.9 GB,0,App_Bancaria,Mensual,-999,True,No
+CLI-00166,2026-07-29,Premium,S/ 123.85,21.2 GB,1,App_Bancaria,Bianual_24M,545.0,False,0
+CLI-00167,2024-07-05,Basico,S/ 53.76,36.0 GB,1,Agente_Efectivo,Anual_12M,638.0,No,No
+CLI-00168,31/12/2022,Basico,S/54.96,33.2 GB,1,App_Bancaria,Mensual,671.0,False,0
+CLI-00169,2026-04-15,Basico,S/69.26,18.6 GB,1,App_Bancaria,Mensual,607.0,1,1
+CLI-00170,2022-12-12,Intermedio,S/ 85.34,38.4 GB,1,Agente_Efectivo,Bianual_24M,462.0,Si,0
+CLI-00171,29/08/2023,Premium,S/116.97,13.2 GB,1,Debito_Automatico,Mensual,711.0,0,Si
+CLI-00172,2024-06-20,Basico,S/ 61.47,36.3 GB,0,Debito_Automatico,Mensual,687.0,0,No
+CLI-00173,18/02/2026,Intermedio,S/94.17,19.8 GB,ninguno,App_Bancaria,Mensual,641.0,True,0
+CLI-00174,18/07/2025,Basico,S/ 35.17,12.3 GB,3,Agente_Efectivo,Bianual_24M,624.0,1,No
+CLI-00175,05/10/2024,Intermedio,S/ 87.07,26.8 GB,2,App_Bancaria,Anual_12M,460.0,False,0
+CLI-00176,2022-05-12,Basico,S/ 58.31,52.5 GB,1,Debito_Automatico,Anual_12M,690.0,1,0
+CLI-00177,01/12/2020,Premium,S/ 116.33,19.2 GB,3,Debito_Automatico,Mensual,754.0,No,0
+CLI-00178,2023-12-01,Intermedio,S/ 96.41,47.4 GB,ninguno,App_Bancaria,Anual_12M,520.0,False,0
+CLI-00179,26/09/2021,Ultra,S/ 168.10,31.0 GB,2,Debito_Automatico,Anual_12M,741.0,No,0
+CLI-00180,2021-09-10,Basico,S/ 51.41,16.4 GB,0,App_Bancaria,Bianual_24M,,False,0
+CLI-00181,2025-05-28,Basico,S/ 47.82,24.8 GB,ninguno,Agente_Efectivo,Bianual_24M,517.0,Si,0
+CLI-00182,07/07/2022,Basico,S/50.09,28.8 GB,1,App_Bancaria,Mensual,585.0,False,No
+CLI-00183,2023-08-16,Ultra,S/ 156.74,4.2 GB,1,App_Bancaria,Anual_12M,-999,No,Si
+CLI-00184,2024-02-06,Ultra,S/152.62,11.1 GB,1,App_Bancaria,Mensual,614.0,No,Si
+CLI-00185,2021-01-14,Basico,S/ 69.03,24.4 GB,ninguno,Debito_Automatico,Anual_12M,660.0,False,No
+CLI-00186,01/01/2025,Premium,S/ 109.74,12.5 GB,1,Agente_Efectivo,Mensual,501.0,False,Si
+CLI-00187,2026-04-13,Premium,S/108.00,50.2 GB,0,App_Bancaria,Mensual,655.0,1,No
+CLI-00188,2022-06-15,Intermedio,S/54.06,40.9 GB,0,App_Bancaria,Mensual,678.0,0,1
+CLI-00189,2026-01-17,Intermedio,S/ 72.23,39.6 GB,ninguno,App_Bancaria,Anual_12M,679.0,False,No
+CLI-00190,04/05/2025,Basico,,20.2 GB,2,App_Bancaria,Mensual,661.0,False,0
+CLI-00191,28/04/2025,Basico,S/69.60,16.7 GB,2,App_Bancaria,Anual_12M,509.0,No,Si
+CLI-00192,2021-07-03,Ultra,S/182.02,36.4 GB,2.0,Debito_Automatico,Mensual,609.0,No,1
+CLI-00193,2020-10-29,Ultra,S/161.64,49.5 GB,ninguno,Agente_Efectivo,Mensual,652.0,0,No
+CLI-00194,2021-06-21,Intermedio,S/ 106.93,89.3 GB,0,Agente_Efectivo,Anual_12M,751.0,0,No
+CLI-00195,2023-08-20,Basico,S/ 61.68,59.9 GB,0,App_Bancaria,Mensual,620.0,1,No
+CLI-00196,2024-06-16,Basico,S/46.00,66.0 GB,2,Agente_Efectivo,Mensual,658.0,No,No
+CLI-00197,2023-10-09,Premium,S/89.91,56.1 GB,3,Debito_Automatico,Anual_12M,536.0,No,No
+CLI-00198,05/10/2023,Ultra,S/197.39,29.1 GB,1,App_Bancaria,Mensual,516.0,No,0
+CLI-00199,12/05/2021,Ultra,S/153.23,17.9 GB,0,App_Bancaria,Mensual,505.0,0,1
+CLI-00200,2022-06-11,Premium,,6.8 GB,ninguno,App_Bancaria,Mensual,582.0,False,Si
+CLI-00201,05/06/2022,Intermedio,S/ 92.17,N/D,2,App_Bancaria,Bianual_24M,806.0,0,0
+CLI-00202,14/09/2023,Basico,S/ 79.18,54.7 GB,2.0,Debito_Automatico,Anual_12M,584.0,No,0
+CLI-00203,13/09/2024,Basico,S/66.51,21.9 GB,0,Debito_Automatico,Anual_12M,653.0,1,1
+CLI-00204,05/10/2023,Ultra,S/ 176.67,33.7 GB,2,App_Bancaria,Anual_12M,670.0,1,0
+CLI-00205,2023-07-01,Intermedio,S/ 87.04,21.8 GB,2,Debito_Automatico,Mensual,522.0,0,Si
+CLI-00206,2021-08-14,Basico,S/ 60.14,40.8 GB,0,App_Bancaria,Mensual,581.0,0,Si
+CLI-00207,10/11/2021,Basico,S/ 59.01,26.6 GB,ninguno,Debito_Automatico,Anual_12M,676.0,Si,0
+CLI-00208,2022-05-09,Premium,S/ 123.27,3.2 GB,1,Debito_Automatico,Mensual,659.0,1,No
+CLI-00209,2026-08-15,Basico,S/51.15,12.8 GB,2,App_Bancaria,Mensual,441.0,No,No
+CLI-00210,2023-10-23,Basico,S/ 49.15,45.7 GB,3,App_Bancaria,Mensual,673.0,0,No
+CLI-00211,2023-02-28,Intermedio,S/70.85,5.8 GB,3.0,Agente_Efectivo,Mensual,570.0,No,No
+CLI-00212,28/03/2022,Premium,S/ 116.53,32.8 GB,1,App_Bancaria,Bianual_24M,573.0,True,0
+CLI-00213,2023-07-01,Premium,S/ 99.58,45.2 GB,0,Debito_Automatico,Mensual,-999,No,0
+CLI-00214,2022-12-05,Basico,S/48.72,11.9 GB,2,Agente_Efectivo,Anual_12M,757.0,No,0
+CLI-00215,2021-09-30,Premium,S/108.04,54.9 GB,2,App_Bancaria,Mensual,-999,False,No
+CLI-00216,2025-06-11,Basico,S/ 36.66,68.3 GB,1,Debito_Automatico,Bianual_24M,726.0,False,0
+CLI-00217,23/06/2024,Basico,S/52.06,13.7 GB,1.0,App_Bancaria,Mensual,490.0,True,0
+CLI-00218,2022-05-02,Premium,S/ 136.60,21.2 GB,3,Agente_Efectivo,Mensual,632.0,False,0
+CLI-00219,20/11/2024,Intermedio,S/90.92,34.9 GB,0,App_Bancaria,Anual_12M,571.0,True,0
+CLI-00220,17/02/2023,Premium,S/ 101.05,74.1 GB,1,Debito_Automatico,Anual_12M,645.0,True,No
+CLI-00221,13/07/2026,Premium,S/ 108.02,24.7 GB,0,Debito_Automatico,Mensual,593.0,0,0
+CLI-00222,2026-07-08,Intermedio,S/91.19,48.7 GB,1.0,Debito_Automatico,Mensual,499.0,0,No
+CLI-00223,2021-02-07,Basico,S/38.11,33.2 GB,0,App_Bancaria,Mensual,540.0,False,No
+CLI-00224,03/07/2024,Intermedio,,21.2 GB,1,App_Bancaria,Mensual,472.0,No,1
+CLI-00225,23/04/2026,Basico,S/56.50,8.4 GB,2,Debito_Automatico,Mensual,502.0,No,No
+CLI-00226,2021-06-18,Basico,S/ 38.28,18.9 GB,2,Agente_Efectivo,Mensual,663.0,False,Si
+CLI-00227,2021-09-08,Ultra,S/171.16,19.0 GB,0,Agente_Efectivo,Mensual,597.0,1,0
+CLI-00228,2021-08-29,Intermedio,S/ 63.89,81.8 GB,2,App_Bancaria,Mensual,641.0,0,1
+CLI-00229,13/09/2023,Ultra,S/162.68,52.0 GB,3,Agente_Efectivo,Anual_12M,783.0,Si,1
+CLI-00230,2021-08-07,Intermedio,S/ 83.74,24.5 GB,0,Debito_Automatico,Bianual_24M,593.0,False,0
+CLI-00231,24/03/2024,Premium,S/ 100.78,34.2 GB,1,App_Bancaria,Anual_12M,677.0,1,0
+CLI-00232,14/10/2022,Intermedio,S/85.19,20.4 GB,4,App_Bancaria,Mensual,623.0,False,Si
+CLI-00233,03/06/2022,Intermedio,S/79.66,62.5 GB,1,Agente_Efectivo,Mensual,850.0,False,0
+CLI-00234,17/03/2025,Intermedio,S/86.53,20.6 GB,3.0,Agente_Efectivo,Bianual_24M,348.0,No,Si
+CLI-00235,2025-06-19,Basico,S/ 52.59,19.0 GB,2,Debito_Automatico,Mensual,555.0,False,Si
+CLI-00236,19/01/2024,Premium,S/136.27,32.4 GB,2.0,Agente_Efectivo,Mensual,679.0,False,1
+CLI-00237,16/06/2021,Basico,S/51.40,11.8 GB,2,Debito_Automatico,Anual_12M,552.0,No,No
+CLI-00238,21/02/2026,Basico,S/44.75,27.9 GB,,Agente_Efectivo,Anual_12M,671.0,0,No
+CLI-00239,2025-10-17,Intermedio,S/81.37,21.0 GB,0,Agente_Efectivo,Anual_12M,615.0,False,0
+CLI-00240,22/06/2021,Basico,S/ 56.42,41.9 GB,1,Debito_Automatico,Mensual,698.0,Si,0
+CLI-00241,2025-10-19,Ultra,S/170.49,64.9 GB,4,App_Bancaria,Mensual,,1,Si
+CLI-00242,2026-04-04,Ultra,S/170.39,N/D,1,Debito_Automatico,Bianual_24M,636.0,True,No
+CLI-00243,04/01/2025,Ultra,S/ 161.48,34.4 GB,2,App_Bancaria,Mensual,662.0,1,Si
+CLI-00244,20/12/2023,Intermedio,S/71.95,46.4 GB,1,App_Bancaria,Anual_12M,632.0,No,No
+CLI-00245,22/08/2024,Basico,S/33.07,9.5 GB,2,App_Bancaria,Anual_12M,633.0,True,No
+CLI-00246,2023-12-22,Ultra,S/190.89,23.0 GB,2,Agente_Efectivo,Anual_12M,728.0,Si,1
+CLI-00247,21/12/2020,Intermedio,S/ 64.97,N/D,ninguno,App_Bancaria,Mensual,469.0,Si,0
+CLI-00248,2026-09-04,Ultra,,59.5 GB,1,App_Bancaria,Mensual,631.0,False,1
+CLI-00249,18/11/2020,Ultra,S/ 161.28,46.5 GB,0,Agente_Efectivo,Anual_12M,511.0,No,1
+CLI-00250,2021-07-27,Premium,S/130.64,69.7 GB,4,Agente_Efectivo,Bianual_24M,688.0,0,Si
+CLI-00251,28/09/2022,Basico,S/46.36,19.6 GB,0,Debito_Automatico,Bianual_24M,545.0,No,0
+CLI-00252,25/05/2023,Intermedio,S/94.87,57.4 GB,1,Agente_Efectivo,Mensual,397.0,True,0
+CLI-00253,2021-02-02,Premium,S/ 111.82,31.3 GB,1,Debito_Automatico,Mensual,690.0,False,No
+CLI-00254,2023-09-03,Basico,S/53.25,7.8 GB,ninguno,Agente_Efectivo,Bianual_24M,596.0,0,Si
+CLI-00255,29/07/2026,Basico,S/39.88,40.5 GB,1,Debito_Automatico,Anual_12M,652.0,True,No
+CLI-00256,25/08/2023,Intermedio,S/ 105.64,27.3 GB,0,Debito_Automatico,Bianual_24M,748.0,No,0
+CLI-00257,30/10/2025,Ultra,S/155.65,90.1 GB,1,App_Bancaria,Mensual,653.0,No,1
+CLI-00258,08/01/2022,Premium,,36.7 GB,ninguno,App_Bancaria,Anual_12M,635.0,False,No
+CLI-00259,2025-07-13,Intermedio,S/87.51,N/D,1,App_Bancaria,Anual_12M,616.0,0,No
+CLI-00260,2025-12-26,Basico,S/ 54.87,33.9 GB,1,Debito_Automatico,Anual_12M,517.0,1,0
+CLI-00261,2025-02-14,Intermedio,S/ 77.68,23.5 GB,1.0,App_Bancaria,Mensual,601.0,True,Si
+CLI-00262,2021-04-25,Ultra,S/168.34,14.7 GB,1,Agente_Efectivo,Mensual,798.0,Si,Si
+CLI-00263,24/10/2023,Basico,S/ 50.43,32.1 GB,3,App_Bancaria,Anual_12M,586.0,True,No
+CLI-00264,2026-03-07,Intermedio,S/ 78.14,18.7 GB,0,Debito_Automatico,Mensual,606.0,True,0
+CLI-00265,30/05/2026,Ultra,S/181.47,51.5 GB,1,App_Bancaria,Mensual,733.0,0,1
+CLI-00266,29/05/2025,Premium,S/ 146.43,90.8 GB,3,Debito_Automatico,Bianual_24M,481.0,Si,0
+CLI-00267,06/02/2024,Premium,S/113.21,25.1 GB,3.0,Agente_Efectivo,Mensual,676.0,0,No
+CLI-00268,01/03/2025,Premium,S/103.46,71.5 GB,0,Agente_Efectivo,Bianual_24M,477.0,0,No
+CLI-00269,2023-06-09,Intermedio,S/78.84,10.5 GB,1,App_Bancaria,Mensual,656.0,No,0
+CLI-00270,15/02/2026,Basico,S/80.86,54.4 GB,2,App_Bancaria,Anual_12M,618.0,No,No
+CLI-00271,2026-03-28,Premium,S/ 110.26,36.6 GB,1,Agente_Efectivo,Bianual_24M,675.0,No,No
+CLI-00272,2021-02-13,Premium,S/ 139.57,42.9 GB,ninguno,App_Bancaria,Mensual,529.0,False,0
+CLI-00273,19/05/2025,Premium,S/140.03,60.5 GB,0,Agente_Efectivo,Mensual,572.0,No,Si
+CLI-00274,2020-11-30,Ultra,S/ 163.26,38.7 GB,1,App_Bancaria,Mensual,680.0,False,No
+CLI-00275,15/08/2026,Intermedio,S/86.73,11.2 GB,ninguno,Agente_Efectivo,Mensual,574.0,0,Si
+CLI-00276,13/11/2024,Intermedio,S/99.44,47.4 GB,1,App_Bancaria,Anual_12M,688.0,Si,No
+CLI-00277,11/09/2025,Premium,S/ 115.35,42.5 GB,1,App_Bancaria,Bianual_24M,639.0,False,0
+CLI-00278,2024-02-06,Intermedio,S/77.46,26.0 GB,0,Agente_Efectivo,Mensual,580.0,False,Si
+CLI-00279,01/01/2024,Premium,S/ 112.92,28.8 GB,0,App_Bancaria,Mensual,592.0,False,1
+CLI-00280,2022-01-12,Premium,S/ 107.72,49.5 GB,1,App_Bancaria,Mensual,620.0,True,0
+CLI-00281,07/04/2021,Ultra,S/162.11,N/D,3,Debito_Automatico,Anual_12M,600.0,0,0
+CLI-00282,2022-05-09,Basico,S/35.21,24.5 GB,0,App_Bancaria,Mensual,686.0,No,0
+CLI-00283,08/11/2021,Intermedio,S/80.31,33.9 GB,4,App_Bancaria,Anual_12M,587.0,Si,Si
+CLI-00284,2026-01-05,Basico,S/ 40.66,15.5 GB,ninguno,Debito_Automatico,Anual_12M,568.0,No,No
+CLI-00285,2026-06-02,Intermedio,S/ 82.71,19.1 GB,0,Debito_Automatico,Anual_12M,702.0,No,0
+CLI-00286,2023-04-01,Basico,,31.4 GB,ninguno,App_Bancaria,Mensual,582.0,No,0
+CLI-00287,2022-10-19,Intermedio,S/ 83.87,30.4 GB,1,Agente_Efectivo,Anual_12M,571.0,No,1
+CLI-00288,17/01/2026,Intermedio,S/ 89.90,35.5 GB,2,App_Bancaria,Mensual,396.0,False,1
+CLI-00289,2024-02-28,Basico,S/25.98,31.0 GB,2,Debito_Automatico,Mensual,526.0,No,No
+CLI-00290,2021-01-07,Intermedio,S/84.39,13.2 GB,ninguno,App_Bancaria,Bianual_24M,545.0,True,0
+CLI-00291,23/05/2024,Basico,S/ 64.63,70.9 GB,1.0,Debito_Automatico,Anual_12M,571.0,0,0
+CLI-00292,2025-04-26,Basico,S/ 35.38,59.1 GB,0,App_Bancaria,Mensual,555.0,False,No
+CLI-00293,2024-04-28,Premium,S/139.97,39.4 GB,1,Debito_Automatico,Mensual,708.0,0,0
+CLI-00294,09/03/2026,Intermedio,S/84.93,23.6 GB,1,Debito_Automatico,Mensual,550.0,No,Si
+CLI-00295,2026-05-07,Basico,S/41.44,54.6 GB,2,Debito_Automatico,Mensual,557.0,1,Si
+CLI-00296,2025-07-22,Intermedio,S/ 79.23,51.1 GB,ninguno,App_Bancaria,Mensual,634.0,0,Si
+CLI-00297,2022-01-15,Premium,S/ 126.60,65.9 GB,ninguno,Debito_Automatico,Mensual,521.0,False,0
+CLI-00298,2025-10-10,Basico,S/50.81,44.8 GB,1.0,App_Bancaria,Mensual,761.0,True,No
+CLI-00299,11/05/2023,Intermedio,,26.1 GB,2,App_Bancaria,Anual_12M,692.0,1,No
+CLI-00300,2021-06-20,Basico,S/ 38.85,43.9 GB,2,App_Bancaria,Anual_12M,515.0,1,0
+CLI-00301,04/07/2025,Basico,S/51.93,7.1 GB,1,App_Bancaria,Anual_12M,711.0,No,0
+CLI-00302,2022-04-14,Intermedio,S/ 62.94,24.8 GB,2.0,Agente_Efectivo,Mensual,730.0,True,0
+CLI-00303,2025-01-12,Intermedio,S/ 78.57,80.8 GB,1,Debito_Automatico,Bianual_24M,517.0,1,0
+CLI-00304,2025-06-04,Intermedio,S/69.05,13.5 GB,0,App_Bancaria,Bianual_24M,515.0,False,No
+CLI-00305,17/03/2026,Premium,S/ 111.07,N/D,2,Debito_Automatico,Bianual_24M,-999,No,0
+CLI-00306,27/09/2025,Ultra,S/184.73,26.6 GB,1,Debito_Automatico,Bianual_24M,493.0,Si,No
+CLI-00307,24/12/2023,Intermedio,S/ 93.00,26.9 GB,3.0,App_Bancaria,Bianual_24M,550.0,1,No
+CLI-00308,29/04/2021,Basico,S/ 57.21,52.3 GB,1,App_Bancaria,Anual_12M,-999,Si,0
+CLI-00309,2022-09-22,Premium,S/ 106.79,37.1 GB,,Agente_Efectivo,Mensual,665.0,1,1
+CLI-00310,2026-01-28,Basico,S/ 46.10,31.8 GB,2,App_Bancaria,Anual_12M,627.0,True,0
+CLI-00311,2024-08-06,Intermedio,,9.9 GB,0,Agente_Efectivo,Anual_12M,607.0,False,0
+CLI-00312,2021-01-23,Basico,S/51.60,32.2 GB,0,Debito_Automatico,Anual_12M,577.0,1,No
+CLI-00313,2022-08-03,Basico,S/77.73,19.8 GB,2,Debito_Automatico,Anual_12M,502.0,0,0
+CLI-00314,2023-04-09,Ultra,S/ 174.62,48.4 GB,2,Debito_Automatico,Mensual,673.0,0,Si
+CLI-00315,2025-02-05,Premium,S/ 122.20,32.8 GB,3,Debito_Automatico,Mensual,671.0,False,Si
+CLI-00316,2022-02-16,Premium,S/116.19,4.3 GB,ninguno,App_Bancaria,Bianual_24M,564.0,False,0
+CLI-00317,2022-11-15,Intermedio,S/ 81.50,64.3 GB,1,App_Bancaria,Anual_12M,521.0,No,0
+CLI-00318,2021-10-08,Basico,S/ 48.07,15.1 GB,ninguno,Debito_Automatico,Anual_12M,760.0,No,0
+CLI-00319,19/05/2025,Basico,S/ 58.40,34.5 GB,1,Agente_Efectivo,Mensual,642.0,False,Si
+CLI-00320,2025-04-02,Basico,S/61.38,29.2 GB,1,Agente_Efectivo,Mensual,656.0,True,Si
+CLI-00321,06/01/2023,Intermedio,S/ 70.47,43.0 GB,4,Debito_Automatico,Bianual_24M,660.0,1,No
+CLI-00322,16/06/2024,Premium,S/103.93,22.0 GB,2,Debito_Automatico,Anual_12M,512.0,False,1
+CLI-00323,2022-11-02,Premium,S/ 97.87,19.6 GB,ninguno,Debito_Automatico,Anual_12M,755.0,False,0
+CLI-00324,2022-10-15,Basico,S/ 56.00,28.0 GB,0,Debito_Automatico,Mensual,584.0,No,0
+CLI-00325,2024-06-07,Ultra,S/ 156.66,68.8 GB,ninguno,Debito_Automatico,Anual_12M,694.0,No,0
+CLI-00326,27/01/2025,Premium,S/94.07,14.0 GB,0,App_Bancaria,Mensual,751.0,0,0
+CLI-00327,2025-08-17,Intermedio,S/84.56,32.6 GB,0,Debito_Automatico,Anual_12M,627.0,No,0
+CLI-00328,2024-11-24,Intermedio,S/ 109.82,37.9 GB,0,App_Bancaria,Mensual,-999,0,0
+CLI-00329,2026-04-27,Intermedio,S/ 79.83,34.8 GB,ninguno,Agente_Efectivo,Mensual,396.0,False,Si
+CLI-00330,09/02/2021,Basico,S/59.96,22.5 GB,1.0,App_Bancaria,Anual_12M,617.0,False,No
+CLI-00331,2025-09-25,Intermedio,S/80.88,25.2 GB,1,Agente_Efectivo,Bianual_24M,643.0,0,No
+CLI-00332,02/10/2023,Premium,S/ 118.71,28.9 GB,4,Debito_Automatico,Mensual,,Si,Si
+CLI-00333,2025-02-07,Basico,S/60.93,31.5 GB,4,App_Bancaria,Bianual_24M,632.0,No,0
+CLI-00334,01/03/2026,Basico,,6.5 GB,1,App_Bancaria,Mensual,659.0,True,0
+CLI-00335,15/04/2021,Basico,S/ 53.11,44.0 GB,1,Debito_Automatico,Mensual,709.0,Si,0
+CLI-00336,2022-06-21,Basico,,39.9 GB,1,Debito_Automatico,Mensual,-999,0,No
+CLI-00337,18/09/2021,Premium,S/111.88,51.8 GB,ninguno,App_Bancaria,Mensual,-999,True,0
+CLI-00338,19/05/2021,Premium,S/ 131.80,8.1 GB,,App_Bancaria,Anual_12M,604.0,No,No
+CLI-00339,2024-10-06,Intermedio,S/77.80,37.5 GB,0,App_Bancaria,Mensual,623.0,True,Si
+CLI-00340,2023-05-07,Basico,S/40.83,29.5 GB,ninguno,App_Bancaria,Mensual,574.0,False,Si
+CLI-00341,02/11/2023,Intermedio,S/86.34,34.9 GB,3,App_Bancaria,Bianual_24M,573.0,Si,0
+CLI-00342,26/11/2024,Intermedio,S/ 69.12,27.9 GB,2,Debito_Automatico,Mensual,579.0,0,1
+CLI-00343,24/12/2025,Basico,S/ 50.24,40.1 GB,,Debito_Automatico,Anual_12M,634.0,Si,No
+CLI-00344,17/10/2023,Intermedio,S/79.79,21.2 GB,2,Debito_Automatico,Mensual,544.0,No,Si
+CLI-00345,12/07/2021,Intermedio,S/92.93,33.5 GB,ninguno,Debito_Automatico,Anual_12M,579.0,No,0
+CLI-00346,2023-08-07,Intermedio,S/85.60,9.6 GB,0,Agente_Efectivo,Mensual,783.0,No,No
+CLI-00347,28/02/2024,Intermedio,S/ 79.60,25.3 GB,1,App_Bancaria,Mensual,701.0,Si,0
+CLI-00348,2024-12-07,Basico,S/ 59.71,26.1 GB,ninguno,App_Bancaria,Mensual,534.0,Si,No
+CLI-00349,19/01/2022,Intermedio,,N/D,3,Debito_Automatico,Mensual,698.0,1,0
+CLI-00350,11/08/2023,Intermedio,S/ 86.59,34.0 GB,4,App_Bancaria,Mensual,676.0,False,No
+CLI-00351,28/07/2026,Intermedio,S/80.02,39.0 GB,1,Debito_Automatico,Anual_12M,611.0,0,0
+CLI-00352,2021-02-17,Premium,S/ 104.16,25.1 GB,ninguno,Debito_Automatico,Bianual_24M,556.0,No,No
+CLI-00353,2025-01-04,Premium,S/ 107.12,48.2 GB,1,Debito_Automatico,Bianual_24M,546.0,1,0
+CLI-00354,2025-11-23,Basico,S/ 46.24,64.6 GB,,Agente_Efectivo,Anual_12M,640.0,False,No
+CLI-00355,17/03/2025,Basico,S/ 42.59,87.4 GB,1,App_Bancaria,Mensual,544.0,0,0
+CLI-00356,15/05/2022,Intermedio,S/ 77.66,13.3 GB,2,App_Bancaria,Mensual,719.0,Si,No
+CLI-00357,2024-06-29,Basico,S/50.58,43.4 GB,1.0,App_Bancaria,Mensual,744.0,False,No
+CLI-00358,23/09/2023,Intermedio,S/ 86.26,34.3 GB,0,Agente_Efectivo,Mensual,616.0,No,No
+CLI-00359,12/12/2023,Ultra,,30.9 GB,0,Debito_Automatico,Anual_12M,722.0,Si,No
+CLI-00360,2024-12-10,Intermedio,S/85.74,13.3 GB,2,Debito_Automatico,Anual_12M,583.0,True,No
+CLI-00361,2024-07-20,Intermedio,S/ 80.67,31.5 GB,1,Debito_Automatico,Mensual,556.0,True,No
+CLI-00362,15/04/2025,Intermedio,S/ 56.19,4.9 GB,1,Agente_Efectivo,Mensual,719.0,No,0
+CLI-00363,11/12/2022,Intermedio,S/68.63,28.1 GB,ninguno,Agente_Efectivo,Bianual_24M,762.0,1,0
+CLI-00364,16/05/2023,Intermedio,S/78.17,9.3 GB,3,Debito_Automatico,Anual_12M,797.0,True,No
+CLI-00365,30/06/2021,Ultra,S/ 155.38,23.0 GB,1,Agente_Efectivo,Mensual,650.0,0,0
+CLI-00366,29/10/2020,Intermedio,S/ 87.10,54.9 GB,0,Agente_Efectivo,Bianual_24M,698.0,1,No
+CLI-00367,2025-01-13,Ultra,S/188.27,20.5 GB,1,Debito_Automatico,Bianual_24M,-999,True,No
+CLI-00368,2024-09-14,Ultra,S/ 184.53,7.3 GB,0,App_Bancaria,Mensual,746.0,0,0
+CLI-00369,2026-06-20,Basico,S/47.34,37.3 GB,0,App_Bancaria,Mensual,659.0,True,No
+CLI-00370,2026-08-18,Basico,S/67.79,19.7 GB,0,Agente_Efectivo,Anual_12M,-999,False,No
+CLI-00371,2023-01-17,Basico,,88.4 GB,2,Debito_Automatico,Bianual_24M,518.0,False,0
+CLI-00372,2023-05-12,Basico,S/ 45.85,10.1 GB,0,Agente_Efectivo,Bianual_24M,599.0,False,No
+CLI-00373,25/01/2024,Basico,S/ 42.54,N/D,ninguno,Debito_Automatico,Mensual,693.0,0,No
+CLI-00374,16/02/2024,Premium,S/116.27,22.0 GB,1,App_Bancaria,Mensual,685.0,1,0
+CLI-00375,2022-08-09,Basico,S/ 45.24,21.4 GB,1,App_Bancaria,Anual_12M,701.0,False,0
+CLI-00376,22/09/2021,Basico,S/ 51.94,11.6 GB,ninguno,App_Bancaria,Anual_12M,631.0,False,No
+CLI-00377,12/09/2022,Premium,S/121.83,39.7 GB,2,Agente_Efectivo,Mensual,561.0,False,No
+CLI-00378,26/06/2022,Basico,S/ 49.94,5.4 GB,3,Agente_Efectivo,Bianual_24M,615.0,False,No
+CLI-00379,17/08/2022,Premium,S/ 125.14,37.7 GB,2,Agente_Efectivo,Anual_12M,624.0,No,Si
+CLI-00380,2021-02-07,Basico,S/64.19,51.7 GB,1,Debito_Automatico,Bianual_24M,642.0,0,No
+CLI-00381,11/04/2021,Basico,S/ 61.29,13.0 GB,ninguno,App_Bancaria,Bianual_24M,533.0,0,No
+CLI-00382,08/05/2021,Premium,S/ 102.08,74.7 GB,0,Debito_Automatico,Anual_12M,596.0,False,No
+CLI-00383,04/04/2024,Intermedio,S/ 49.25,18.0 GB,ninguno,App_Bancaria,Mensual,612.0,No,1
+CLI-00384,18/03/2023,Ultra,S/181.11,26.0 GB,2,App_Bancaria,Anual_12M,418.0,No,Si
+CLI-00385,26/10/2021,Premium,S/ 103.50,N/D,0,App_Bancaria,Mensual,695.0,No,No
+CLI-00386,14/12/2021,Premium,S/ 117.20,28.8 GB,2,App_Bancaria,Anual_12M,635.0,False,1
+CLI-00387,10/06/2026,Basico,S/35.86,41.5 GB,3,Agente_Efectivo,Mensual,644.0,No,Si
+CLI-00388,13/05/2022,Basico,S/28.28,13.2 GB,2,Debito_Automatico,Anual_12M,574.0,False,No
+CLI-00389,2023-02-18,Premium,S/ 126.40,35.4 GB,0,App_Bancaria,Mensual,673.0,Si,0
+CLI-00390,2021-08-29,Premium,S/129.01,40.0 GB,ninguno,App_Bancaria,Mensual,545.0,False,No
+CLI-00391,2023-09-30,Ultra,S/ 162.98,47.7 GB,ninguno,Debito_Automatico,Mensual,559.0,True,0
+CLI-00392,29/01/2024,Intermedio,S/48.81,30.7 GB,2,Debito_Automatico,Mensual,677.0,0,1
+CLI-00393,19/08/2022,Intermedio,S/ 73.35,61.5 GB,ninguno,Agente_Efectivo,Anual_12M,652.0,False,0
+CLI-00394,2023-09-02,Premium,S/ 124.60,12.8 GB,3,Agente_Efectivo,Anual_12M,505.0,Si,1
+CLI-00395,10/12/2025,Basico,S/32.15,38.9 GB,1,Agente_Efectivo,Anual_12M,762.0,0,0
+CLI-00396,05/11/2023,Ultra,S/ 172.10,19.0 GB,1,Agente_Efectivo,Mensual,552.0,No,1
+CLI-00397,17/01/2026,Premium,S/ 119.72,37.4 GB,1,Debito_Automatico,Mensual,608.0,True,1
+CLI-00398,2021-02-16,Intermedio,S/ 86.85,33.1 GB,1,App_Bancaria,Mensual,777.0,0,No
+CLI-00399,05/01/2021,Premium,S/121.33,18.5 GB,1.0,App_Bancaria,Mensual,435.0,False,1
+CLI-00400,28/07/2021,Premium,S/ 108.22,29.3 GB,1,App_Bancaria,Bianual_24M,466.0,True,0
+CLI-00401,10/04/2026,Basico,S/ 64.26,18.2 GB,0,App_Bancaria,Mensual,660.0,No,No
+CLI-00402,06/01/2024,Ultra,S/ 168.00,83.1 GB,ninguno,App_Bancaria,Mensual,397.0,No,Si
+CLI-00403,02/07/2021,Intermedio,S/ 79.57,45.2 GB,2,App_Bancaria,Mensual,436.0,Si,0
+CLI-00404,2022-03-10,Premium,S/ 108.70,84.1 GB,2,App_Bancaria,Mensual,726.0,1,0
+CLI-00405,31/12/2025,Basico,S/ 44.58,16.8 GB,1.0,Debito_Automatico,Anual_12M,583.0,No,0
+CLI-00406,2024-11-26,Ultra,S/ 159.28,8.4 GB,2,App_Bancaria,Anual_12M,-999,False,1
+CLI-00407,2021-10-05,Intermedio,S/ 77.82,N/D,1,App_Bancaria,Mensual,527.0,1,No
+CLI-00408,2023-11-16,Basico,S/70.44,38.5 GB,0,App_Bancaria,Mensual,591.0,Si,No
+CLI-00409,2023-01-15,Ultra,S/153.44,46.9 GB,1,Debito_Automatico,Mensual,669.0,No,1
+CLI-00410,2020-12-29,Basico,,47.1 GB,0,App_Bancaria,Mensual,662.0,No,No
+CLI-00411,04/04/2025,Basico,S/ 67.55,80.8 GB,1.0,Debito_Automatico,Mensual,597.0,False,No
+CLI-00412,24/08/2023,Ultra,S/167.39,46.8 GB,3,App_Bancaria,Bianual_24M,562.0,No,Si
+CLI-00413,2021-01-18,Ultra,S/ 161.87,14.9 GB,0,Agente_Efectivo,Anual_12M,641.0,False,Si
+CLI-00414,02/03/2021,Intermedio,S/92.38,11.1 GB,1,App_Bancaria,Anual_12M,744.0,0,0
+CLI-00415,2025-07-21,Intermedio,S/ 72.63,84.3 GB,1,Debito_Automatico,Mensual,689.0,No,No
+CLI-00416,2021-12-15,Intermedio,S/ 101.81,30.9 GB,0,App_Bancaria,Mensual,563.0,False,No
+CLI-00417,01/05/2022,Basico,S/ 58.04,65.1 GB,0,App_Bancaria,Anual_12M,531.0,No,0
+CLI-00418,09/09/2021,Basico,S/ 44.05,17.5 GB,1,Agente_Efectivo,Anual_12M,558.0,No,No
+CLI-00419,16/05/2022,Premium,S/145.79,45.9 GB,0,App_Bancaria,Anual_12M,505.0,0,0
+CLI-00420,2022-03-14,Premium,S/112.63,17.4 GB,2,App_Bancaria,Mensual,633.0,0,1
+CLI-00421,30/11/2025,Premium,S/128.81,3.9 GB,0,App_Bancaria,Anual_12M,-999,False,No
+CLI-00422,22/01/2025,Premium,S/123.49,58.2 GB,3,Debito_Automatico,Mensual,614.0,True,No
+CLI-00423,27/08/2023,Basico,S/ 65.52,13.1 GB,1.0,Debito_Automatico,Bianual_24M,775.0,False,0
+CLI-00424,2022-12-07,Intermedio,S/ 98.64,11.9 GB,ninguno,App_Bancaria,Anual_12M,780.0,0,No
+CLI-00425,23/12/2022,Basico,S/50.28,28.6 GB,3,App_Bancaria,Anual_12M,648.0,True,0
+CLI-00426,06/02/2022,Intermedio,S/70.86,29.0 GB,0,App_Bancaria,Mensual,683.0,0,0
+CLI-00427,17/12/2020,Intermedio,,36.5 GB,3,Debito_Automatico,Anual_12M,539.0,1,No
+CLI-00428,2026-04-05,Ultra,S/ 161.77,39.0 GB,ninguno,Debito_Automatico,Mensual,,No,1
+CLI-00429,06/09/2022,Intermedio,S/104.06,17.5 GB,1,App_Bancaria,Mensual,735.0,Si,0
+CLI-00430,2024-04-02,Basico,S/51.54,12.1 GB,3,Debito_Automatico,Mensual,568.0,False,No
+CLI-00431,28/06/2022,Basico,S/ 45.52,62.6 GB,1,App_Bancaria,Anual_12M,754.0,0,No
+CLI-00432,2020-12-19,Premium,S/ 122.12,50.0 GB,1.0,Debito_Automatico,Mensual,720.0,1,0
+CLI-00433,2023-11-23,Intermedio,S/ 63.73,13.0 GB,1,App_Bancaria,Mensual,688.0,0,Si
+CLI-00434,11/04/2022,Basico,S/38.24,9.3 GB,1,Agente_Efectivo,Bianual_24M,514.0,Si,0
+CLI-00435,2022-04-08,Basico,S/ 64.30,24.0 GB,ninguno,Debito_Automatico,Mensual,592.0,0,Si
+CLI-00436,2022-06-03,Premium,S/ 112.02,11.8 GB,1,App_Bancaria,Anual_12M,678.0,False,0
+CLI-00437,2021-01-15,Basico,S/ 37.34,23.4 GB,2.0,Debito_Automatico,Mensual,531.0,True,No
+CLI-00438,2023-03-04,Premium,S/126.34,N/D,1.0,App_Bancaria,Mensual,603.0,No,Si
+CLI-00439,03/07/2024,Premium,S/ 134.13,27.7 GB,0,App_Bancaria,Anual_12M,688.0,True,No
+CLI-00440,08/02/2025,Basico,S/ 58.53,58.8 GB,2.0,App_Bancaria,Mensual,569.0,0,Si
+CLI-00441,26/04/2022,Basico,,25.1 GB,1,App_Bancaria,Mensual,544.0,0,No
+CLI-00442,2024-08-09,Ultra,S/160.82,56.5 GB,1,Agente_Efectivo,Anual_12M,458.0,False,0
+CLI-00443,09/06/2023,Intermedio,S/ 62.84,22.6 GB,3,Debito_Automatico,Anual_12M,585.0,No,0
+CLI-00444,2024-12-01,Intermedio,S/97.92,3.8 GB,1,Debito_Automatico,Anual_12M,690.0,0,Si
+CLI-00445,15/04/2023,Premium,S/116.03,38.5 GB,1,Agente_Efectivo,Mensual,541.0,0,1
+CLI-00446,2023-10-02,Ultra,S/ 166.89,6.7 GB,1,App_Bancaria,Mensual,622.0,No,No
+CLI-00447,14/04/2021,Ultra,S/ 185.84,20.5 GB,1,Agente_Efectivo,Anual_12M,,1,0
+CLI-00448,24/06/2026,Premium,S/ 126.57,3.5 GB,1,App_Bancaria,Anual_12M,560.0,False,0
+CLI-00449,2021-11-18,Intermedio,S/ 85.37,30.1 GB,2,Agente_Efectivo,Bianual_24M,695.0,True,0
+CLI-00450,2026-04-10,Basico,S/ 75.88,34.0 GB,1,App_Bancaria,Bianual_24M,768.0,Si,No
+CLI-00451,07/02/2026,Premium,S/112.18,42.1 GB,1,App_Bancaria,Bianual_24M,710.0,No,No
+CLI-00452,2023-09-06,Intermedio,S/ 91.03,9.3 GB,2,Agente_Efectivo,Mensual,557.0,False,1
+CLI-00453,2021-05-04,Intermedio,S/80.58,15.6 GB,ninguno,App_Bancaria,Mensual,799.0,No,0
+CLI-00454,2021-04-08,Ultra,S/ 173.12,24.8 GB,ninguno,Debito_Automatico,Anual_12M,710.0,False,0
+CLI-00455,18/07/2022,Basico,S/68.24,42.5 GB,1.0,Debito_Automatico,Mensual,579.0,No,0
+CLI-00456,08/09/2024,Intermedio,S/ 85.99,35.3 GB,1.0,Debito_Automatico,Mensual,550.0,False,Si
+CLI-00457,2023-08-13,Basico,S/56.36,15.4 GB,1,Debito_Automatico,Bianual_24M,721.0,1,No
+CLI-00458,2022-11-21,Intermedio,S/92.77,55.7 GB,1,Debito_Automatico,Bianual_24M,636.0,0,0
+CLI-00459,16/05/2026,Basico,S/45.52,N/D,3,App_Bancaria,Mensual,543.0,False,No
+CLI-00460,10/04/2025,Basico,S/ 39.83,37.2 GB,0,App_Bancaria,Mensual,607.0,0,1
+CLI-00461,2022-11-18,Basico,S/37.36,N/D,3,App_Bancaria,Mensual,583.0,False,No
+CLI-00462,06/01/2026,Intermedio,S/56.30,49.0 GB,1,App_Bancaria,Bianual_24M,546.0,No,0
+CLI-00463,2023-12-02,Premium,S/144.57,20.5 GB,2,Debito_Automatico,Bianual_24M,711.0,0,No
+CLI-00464,2021-07-30,Intermedio,S/ 66.66,N/D,1,Debito_Automatico,Mensual,690.0,0,0
+CLI-00465,15/05/2025,Ultra,S/167.24,37.8 GB,1,Debito_Automatico,Mensual,695.0,0,Si
+CLI-00466,30/08/2023,Intermedio,S/ 76.58,66.7 GB,1,App_Bancaria,Bianual_24M,694.0,False,0
+CLI-00467,2021-01-22,Basico,S/53.59,81.5 GB,2.0,Debito_Automatico,Mensual,538.0,1,No
+CLI-00468,2021-08-17,Premium,S/129.69,25.6 GB,0,Debito_Automatico,Anual_12M,-999,Si,0
+CLI-00469,2023-10-06,Basico,S/ 60.23,28.2 GB,1,App_Bancaria,Bianual_24M,751.0,1,0
+CLI-00470,2024-07-12,Ultra,S/ 162.90,63.0 GB,1.0,Agente_Efectivo,Mensual,630.0,No,Si
+CLI-00471,2025-10-06,Basico,S/ 47.89,32.0 GB,1,Debito_Automatico,Anual_12M,488.0,0,No
+CLI-00472,2022-10-07,Ultra,S/173.29,14.9 GB,0,App_Bancaria,Mensual,640.0,0,No
+CLI-00473,18/03/2024,Basico,S/ 46.92,8.8 GB,ninguno,App_Bancaria,Mensual,679.0,Si,0
+CLI-00474,25/06/2026,Ultra,S/ 189.19,34.7 GB,1,Agente_Efectivo,Bianual_24M,667.0,0,0
+CLI-00475,24/02/2022,Intermedio,S/85.79,20.9 GB,3.0,Agente_Efectivo,Mensual,536.0,No,1
+CLI-00476,14/02/2021,Ultra,S/ 178.72,47.8 GB,0,Debito_Automatico,Bianual_24M,790.0,No,No
+CLI-00477,2023-11-15,Basico,S/ 57.85,22.7 GB,1.0,Debito_Automatico,Anual_12M,485.0,No,0
+CLI-00478,2024-03-26,Intermedio,S/93.98,79.4 GB,1,Agente_Efectivo,Mensual,630.0,0,Si
+CLI-00479,2025-01-09,Ultra,S/ 172.07,16.4 GB,1,App_Bancaria,Mensual,776.0,1,1
+CLI-00480,20/11/2024,Intermedio,S/ 64.34,12.3 GB,1,App_Bancaria,Mensual,673.0,Si,0
+CLI-00481,2020-12-03,Intermedio,S/ 84.70,27.9 GB,1,App_Bancaria,Mensual,695.0,1,0
+CLI-00482,09/09/2024,Premium,S/112.08,45.3 GB,2,App_Bancaria,Mensual,525.0,False,No
+CLI-00483,29/09/2022,Intermedio,S/73.56,50.2 GB,2,Agente_Efectivo,Mensual,,Si,1
+CLI-00484,2024-10-13,Intermedio,S/ 86.94,32.0 GB,1.0,Agente_Efectivo,Mensual,617.0,No,0
+CLI-00485,2026-07-20,Intermedio,S/ 94.76,82.2 GB,1,App_Bancaria,Anual_12M,518.0,False,No
+CLI-00486,19/03/2023,Ultra,,29.9 GB,2,Debito_Automatico,Anual_12M,698.0,False,1
+CLI-00487,28/06/2021,Basico,S/53.61,25.1 GB,1,Agente_Efectivo,Anual_12M,546.0,No,No
+CLI-00488,02/08/2026,Basico,S/ 70.33,38.1 GB,ninguno,Debito_Automatico,Mensual,557.0,True,0
+CLI-00489,2024-05-12,Ultra,S/172.79,13.8 GB,5,Debito_Automatico,Mensual,659.0,No,1
+CLI-00490,17/11/2025,Ultra,S/ 201.12,56.3 GB,2,Agente_Efectivo,Anual_12M,607.0,0,Si
+CLI-00491,2020-11-13,Intermedio,S/86.69,62.1 GB,2,Debito_Automatico,Mensual,635.0,True,0
+CLI-00492,11/10/2022,Intermedio,S/58.77,33.9 GB,2,Debito_Automatico,Mensual,602.0,No,Si
+CLI-00493,12/05/2024,Basico,S/58.94,15.7 GB,2,Debito_Automatico,Bianual_24M,747.0,No,No
+CLI-00494,22/12/2021,Basico,S/ 54.47,35.4 GB,3,Agente_Efectivo,Anual_12M,537.0,No,0
+CLI-00495,2022-06-30,Intermedio,S/95.38,79.9 GB,1,App_Bancaria,Anual_12M,578.0,False,0
+CLI-00496,13/06/2026,Intermedio,S/ 87.98,42.8 GB,2.0,App_Bancaria,Mensual,663.0,0,1
+CLI-00497,2025-06-29,Intermedio,S/ 78.24,N/D,0,Debito_Automatico,Anual_12M,531.0,0,1
+CLI-00498,2024-04-29,Basico,S/ 35.21,54.1 GB,5,Agente_Efectivo,Anual_12M,527.0,True,0
+CLI-00499,2023-09-13,Ultra,S/167.39,N/D,1.0,Agente_Efectivo,Anual_12M,632.0,Si,Si
+CLI-00500,23/10/2023,Ultra,S/159.69,26.7 GB,2,Debito_Automatico,Anual_12M,698.0,Si,No
+CLI-00501,01/05/2025,Premium,S/112.93,46.3 GB,1,App_Bancaria,Bianual_24M,710.0,No,No
+CLI-00502,2024-07-13,Intermedio,S/86.96,10.7 GB,0,Debito_Automatico,Anual_12M,628.0,False,No
+CLI-00503,26/06/2021,Basico,S/ 69.94,60.0 GB,ninguno,Agente_Efectivo,Mensual,560.0,False,No
+CLI-00504,2022-05-12,Premium,S/124.64,11.3 GB,ninguno,App_Bancaria,Anual_12M,645.0,No,0
+CLI-00505,2024-03-20,Premium,S/105.55,21.9 GB,ninguno,Agente_Efectivo,Anual_12M,671.0,No,Si
+CLI-00506,2025-03-25,Basico,S/55.24,58.7 GB,1,Debito_Automatico,Anual_12M,644.0,No,No
+CLI-00507,12/11/2023,Ultra,S/ 184.26,28.4 GB,0,Agente_Efectivo,Mensual,731.0,False,1
+CLI-00508,03/03/2025,Premium,S/112.58,34.8 GB,2,Agente_Efectivo,Mensual,529.0,True,1
+CLI-00509,2025-04-09,Ultra,S/168.29,87.7 GB,2,App_Bancaria,Bianual_24M,557.0,0,1
+CLI-00510,01/11/2020,Premium,S/120.08,53.2 GB,0,Agente_Efectivo,Anual_12M,719.0,No,0
+CLI-00511,2023-11-15,Intermedio,S/ 70.48,29.4 GB,3,App_Bancaria,Bianual_24M,487.0,Si,No
+CLI-00512,16/06/2025,Intermedio,S/87.68,55.0 GB,1,Debito_Automatico,Anual_12M,571.0,0,0
+CLI-00513,2024-04-11,Ultra,S/168.45,29.9 GB,ninguno,App_Bancaria,Anual_12M,554.0,No,No
+CLI-00514,05/06/2021,Premium,S/ 124.93,26.6 GB,1,App_Bancaria,Anual_12M,479.0,1,0
+CLI-00515,12/09/2025,Basico,S/ 39.25,31.2 GB,1,App_Bancaria,Bianual_24M,603.0,True,0
+CLI-00516,02/08/2026,Basico,S/ 44.65,24.5 GB,1,Debito_Automatico,Anual_12M,687.0,1,No
+CLI-00517,2025-05-06,Intermedio,S/88.57,19.8 GB,1,App_Bancaria,Anual_12M,634.0,0,No
+CLI-00518,30/07/2025,Premium,S/ 115.43,23.0 GB,1,Debito_Automatico,Mensual,692.0,False,0
+CLI-00519,2025-03-02,Ultra,S/ 190.62,21.4 GB,0,App_Bancaria,Mensual,727.0,No,Si
+CLI-00520,25/06/2022,Basico,,15.8 GB,2.0,App_Bancaria,Anual_12M,585.0,0,0
+CLI-00521,2023-07-26,Intermedio,S/82.60,45.0 GB,1,App_Bancaria,Mensual,850.0,0,0
+CLI-00522,2023-02-17,Intermedio,S/ 91.09,48.5 GB,1,Debito_Automatico,Mensual,589.0,No,No
+CLI-00523,19/06/2025,Ultra,S/ 152.88,26.8 GB,1,App_Bancaria,Mensual,601.0,0,Si
+CLI-00524,16/11/2022,Premium,S/98.77,91.5 GB,3,Debito_Automatico,Mensual,556.0,False,Si
+CLI-00525,2022-03-12,Premium,S/101.59,64.7 GB,1,Debito_Automatico,Mensual,669.0,0,0
+CLI-00526,25/09/2022,Intermedio,S/ 95.05,44.4 GB,3,Agente_Efectivo,Mensual,594.0,No,No
+CLI-00527,16/07/2024,Intermedio,S/73.28,52.0 GB,4,Agente_Efectivo,Bianual_24M,613.0,No,Si
+CLI-00528,14/04/2026,Basico,S/ 80.60,12.2 GB,0,App_Bancaria,Anual_12M,602.0,0,0
+CLI-00529,2026-09-02,Basico,S/43.13,61.3 GB,1,Agente_Efectivo,Mensual,599.0,Si,No
+CLI-00530,17/08/2026,Premium,,20.3 GB,1,Agente_Efectivo,Mensual,634.0,Si,Si
+CLI-00531,2026-05-26,Premium,S/ 138.41,80.6 GB,3,Agente_Efectivo,Anual_12M,579.0,0,No
+CLI-00532,2024-01-29,Ultra,S/ 193.97,123.5 GB,1,Debito_Automatico,Mensual,584.0,1,Si
+CLI-00533,01/04/2022,Ultra,S/ 194.64,102.4 GB,1.0,Agente_Efectivo,Bianual_24M,717.0,No,0
+CLI-00534,12/05/2022,Intermedio,S/94.40,45.3 GB,1,App_Bancaria,Anual_12M,-999,0,No
+CLI-00535,06/08/2026,Premium,S/132.19,49.4 GB,2,Debito_Automatico,Anual_12M,655.0,True,0
+CLI-00536,2023-08-30,Ultra,S/177.01,51.1 GB,2,Debito_Automatico,Mensual,540.0,1,0
+CLI-00537,2023-01-18,Premium,S/ 129.24,25.8 GB,0,App_Bancaria,Anual_12M,580.0,Si,No
+CLI-00538,2024-08-26,Basico,S/ 43.29,43.7 GB,1,Debito_Automatico,Mensual,509.0,True,0
+CLI-00539,2024-11-19,Intermedio,S/ 70.08,18.3 GB,0,Debito_Automatico,Bianual_24M,787.0,No,No
+CLI-00540,2021-04-03,Basico,S/ 49.86,79.5 GB,2,Debito_Automatico,Anual_12M,744.0,No,0
+CLI-00541,2021-11-07,Ultra,S/167.86,48.8 GB,ninguno,Agente_Efectivo,Mensual,674.0,False,No
+CLI-00542,16/09/2022,Intermedio,S/ 74.46,64.2 GB,1,Agente_Efectivo,Mensual,814.0,0,0
+CLI-00543,30/04/2024,Basico,S/58.26,33.1 GB,2,Debito_Automatico,Mensual,689.0,No,1
+CLI-00544,01/09/2025,Premium,S/131.36,23.5 GB,ninguno,Agente_Efectivo,Anual_12M,605.0,0,0
+CLI-00545,17/07/2022,Intermedio,S/ 80.96,12.7 GB,0,Agente_Efectivo,Mensual,654.0,0,1
+CLI-00546,2021-01-28,Intermedio,S/97.63,20.8 GB,0,Agente_Efectivo,Anual_12M,742.0,False,0
+CLI-00547,2025-11-24,Basico,S/ 36.20,29.4 GB,0,Debito_Automatico,Mensual,541.0,Si,0
+CLI-00548,28/05/2022,Premium,S/ 117.58,49.6 GB,1,App_Bancaria,Anual_12M,514.0,True,No
+CLI-00549,30/05/2023,Intermedio,S/71.30,40.5 GB,2.0,Agente_Efectivo,Bianual_24M,,True,0
+CLI-00550,14/07/2024,Premium,S/ 97.50,37.1 GB,0,App_Bancaria,Anual_12M,567.0,Si,No
+CLI-00551,2021-03-10,Intermedio,S/ 78.91,47.9 GB,0,Debito_Automatico,Anual_12M,417.0,No,0
+CLI-00552,2022-08-17,Premium,S/118.44,29.7 GB,0,App_Bancaria,Mensual,508.0,True,No
+CLI-00553,10/07/2025,Intermedio,S/ 98.06,47.9 GB,1,App_Bancaria,Mensual,592.0,False,0
+CLI-00554,26/07/2021,Intermedio,S/87.47,36.7 GB,2,App_Bancaria,Anual_12M,624.0,False,0
+CLI-00555,25/12/2022,Ultra,S/ 157.61,35.7 GB,2,Debito_Automatico,Mensual,627.0,No,0
+CLI-00556,13/02/2025,Intermedio,S/ 102.15,19.7 GB,ninguno,Debito_Automatico,Mensual,800.0,No,0
+CLI-00557,15/11/2020,Basico,S/64.55,25.7 GB,1,Agente_Efectivo,Mensual,601.0,True,1
+CLI-00558,25/01/2025,Basico,S/56.89,7.5 GB,1,Agente_Efectivo,Mensual,645.0,No,1
+CLI-00559,28/02/2024,Premium,S/ 117.18,17.8 GB,,Debito_Automatico,Mensual,474.0,Si,0
+CLI-00560,04/06/2022,Intermedio,S/ 68.39,57.7 GB,2.0,Agente_Efectivo,Bianual_24M,617.0,No,0
+CLI-00561,26/03/2025,Premium,,19.3 GB,2,Debito_Automatico,Mensual,650.0,0,Si
+CLI-00562,29/12/2025,Basico,S/ 62.96,40.2 GB,2,App_Bancaria,Anual_12M,-999,0,No
+CLI-00563,29/03/2021,Basico,S/72.52,18.1 GB,0,Agente_Efectivo,Mensual,536.0,False,0
+CLI-00564,2025-05-30,Basico,S/68.42,52.6 GB,1,Agente_Efectivo,Anual_12M,664.0,0,No
+CLI-00565,21/01/2026,Intermedio,S/74.03,41.9 GB,3,Agente_Efectivo,Mensual,571.0,True,0
+CLI-00566,24/04/2024,Intermedio,S/66.46,13.4 GB,1,Debito_Automatico,Bianual_24M,611.0,True,No
+CLI-00567,2025-04-09,Intermedio,S/81.59,N/D,1,Agente_Efectivo,Bianual_24M,669.0,No,1
+CLI-00568,25/03/2023,Intermedio,S/58.68,63.9 GB,,Debito_Automatico,Mensual,803.0,False,Si
+CLI-00569,2022-04-13,Ultra,S/173.78,18.4 GB,ninguno,App_Bancaria,Bianual_24M,600.0,False,No
+CLI-00570,30/06/2024,Basico,S/48.13,27.3 GB,4.0,App_Bancaria,Bianual_24M,779.0,True,0
+CLI-00571,19/01/2023,Intermedio,S/ 74.31,16.1 GB,2,App_Bancaria,Bianual_24M,444.0,False,No
+CLI-00572,2025-12-26,Premium,S/ 100.76,51.3 GB,0,Debito_Automatico,Bianual_24M,633.0,No,0
+CLI-00573,2023-03-14,Intermedio,S/86.06,32.6 GB,1,Agente_Efectivo,Mensual,590.0,No,0
+CLI-00574,21/08/2024,Intermedio,S/73.51,32.4 GB,2,Debito_Automatico,Anual_12M,572.0,False,No
+CLI-00575,09/11/2025,Premium,S/ 105.86,29.2 GB,1.0,Debito_Automatico,Mensual,679.0,0,0
+CLI-00576,2024-03-24,Ultra,S/ 135.43,65.7 GB,1,App_Bancaria,Mensual,601.0,1,No
+CLI-00577,30/03/2025,Basico,,97.7 GB,1,App_Bancaria,Bianual_24M,438.0,False,No
+CLI-00578,28/01/2021,Ultra,S/191.17,64.5 GB,1.0,Agente_Efectivo,Mensual,477.0,Si,Si
+CLI-00579,27/01/2021,Intermedio,S/ 99.84,52.1 GB,ninguno,App_Bancaria,Anual_12M,685.0,True,No
+CLI-00580,2024-10-31,Basico,S/44.41,23.3 GB,0,Debito_Automatico,Bianual_24M,473.0,False,No
+CLI-00581,01/07/2021,Intermedio,S/72.67,21.4 GB,2,Agente_Efectivo,Bianual_24M,687.0,No,No
+CLI-00582,2026-04-19,Ultra,S/175.53,19.9 GB,3,App_Bancaria,Bianual_24M,631.0,0,0
+CLI-00583,17/04/2026,Intermedio,S/67.92,25.7 GB,ninguno,Debito_Automatico,Mensual,605.0,False,No
+CLI-00584,16/02/2026,Basico,S/ 53.52,24.1 GB,2,App_Bancaria,Mensual,613.0,No,Si
+CLI-00585,2021-04-09,Intermedio,S/89.09,46.3 GB,2,App_Bancaria,Mensual,666.0,Si,Si
+CLI-00586,01/10/2025,Basico,,10.9 GB,3,App_Bancaria,Mensual,514.0,False,1
+CLI-00587,2025-04-23,Basico,S/48.70,25.2 GB,1,App_Bancaria,Mensual,624.0,Si,0
+CLI-00588,03/08/2024,Basico,S/ 47.46,7.1 GB,1,Agente_Efectivo,Mensual,517.0,False,1
+CLI-00589,27/04/2025,Basico,S/ 39.36,52.8 GB,2,Agente_Efectivo,Anual_12M,635.0,0,No
+CLI-00590,03/10/2023,Basico,S/ 39.98,25.4 GB,2,App_Bancaria,Anual_12M,678.0,False,Si
+CLI-00591,09/03/2022,Basico,S/ 47.18,78.6 GB,0,Debito_Automatico,Mensual,635.0,0,No
+CLI-00592,09/11/2020,Intermedio,S/84.31,48.1 GB,3,Agente_Efectivo,Anual_12M,675.0,Si,0
+CLI-00593,12/07/2021,Basico,S/60.86,7.2 GB,0,App_Bancaria,Mensual,557.0,False,0
+CLI-00594,07/03/2023,Basico,S/40.26,12.2 GB,1.0,App_Bancaria,Mensual,614.0,Si,0
+CLI-00595,2026-05-23,Ultra,S/187.81,24.9 GB,0,App_Bancaria,Anual_12M,599.0,True,Si
+CLI-00596,04/04/2022,Intermedio,S/ 76.65,99.0 GB,2,Agente_Efectivo,Anual_12M,593.0,Si,No
+CLI-00597,01/08/2021,Premium,S/119.64,16.9 GB,0,App_Bancaria,Anual_12M,548.0,0,0
+CLI-00598,2021-11-27,Basico,S/40.93,36.0 GB,4,Debito_Automatico,Mensual,-999,False,No
+CLI-00599,2026-09-15,Basico,S/20.81,57.4 GB,1.0,App_Bancaria,Bianual_24M,520.0,No,0
+CLI-00600,2021-11-20,Basico,S/60.51,65.3 GB,1,Agente_Efectivo,Anual_12M,468.0,False,1
+CLI-00601,2026-06-08,Basico,S/58.74,29.2 GB,3,Debito_Automatico,Anual_12M,557.0,False,0
+CLI-00602,2024-07-27,Basico,S/46.52,15.6 GB,0,Agente_Efectivo,Anual_12M,676.0,0,No
+CLI-00603,2022-01-25,Basico,S/ 50.70,31.7 GB,1,App_Bancaria,Bianual_24M,641.0,No,0
+CLI-00604,2024-09-10,Basico,S/56.09,55.3 GB,4,App_Bancaria,Anual_12M,507.0,False,1
+CLI-00605,10/12/2022,Basico,S/31.15,47.0 GB,1,Debito_Automatico,Anual_12M,583.0,False,No
+CLI-00606,2021-01-04,Intermedio,S/ 73.55,8.1 GB,1,Debito_Automatico,Bianual_24M,682.0,True,No
+CLI-00607,24/11/2024,Basico,S/59.43,9.9 GB,1,Agente_Efectivo,Anual_12M,580.0,False,0
+CLI-00608,19/06/2026,Intermedio,S/64.85,N/D,1,Debito_Automatico,Mensual,492.0,False,No
+CLI-00609,14/12/2024,Intermedio,S/83.42,56.5 GB,3,Agente_Efectivo,Anual_12M,823.0,Si,No
+CLI-00610,04/06/2021,Premium,S/103.62,13.1 GB,0,App_Bancaria,Mensual,605.0,False,No
+CLI-00611,2022-10-15,Basico,S/55.50,12.0 GB,,Debito_Automatico,Mensual,515.0,True,No
+CLI-00612,03/10/2023,Premium,S/ 119.47,33.8 GB,1,Debito_Automatico,Anual_12M,635.0,True,1
+CLI-00613,19/01/2024,Intermedio,S/ 60.52,N/D,0,App_Bancaria,Bianual_24M,612.0,Si,No
+CLI-00614,2021-10-20,Basico,S/63.88,74.0 GB,7,Agente_Efectivo,Bianual_24M,481.0,False,0
+CLI-00615,2021-11-15,Ultra,S/161.08,13.6 GB,2,App_Bancaria,Mensual,628.0,False,No
+CLI-00616,2025-07-14,Ultra,S/160.18,95.7 GB,1.0,App_Bancaria,Anual_12M,709.0,0,No
+CLI-00617,2021-06-02,Basico,S/ 52.31,N/D,1,Debito_Automatico,Mensual,599.0,1,0
+CLI-00618,2020-12-15,Basico,S/ 63.68,23.1 GB,0,App_Bancaria,Bianual_24M,435.0,False,Si
+CLI-00619,14/04/2021,Premium,S/107.71,44.3 GB,2,App_Bancaria,Bianual_24M,651.0,False,No
+CLI-00620,20/08/2024,Premium,S/ 120.64,15.1 GB,0,Agente_Efectivo,Anual_12M,674.0,1,0
+CLI-00621,24/06/2022,Basico,S/55.05,26.3 GB,0,App_Bancaria,Bianual_24M,567.0,No,0
+CLI-00622,02/03/2022,Basico,S/58.22,N/D,0,App_Bancaria,Anual_12M,568.0,Si,0
+CLI-00623,06/09/2023,Intermedio,S/82.02,8.9 GB,1,Debito_Automatico,Anual_12M,,1,No
+CLI-00624,11/03/2023,Intermedio,S/ 75.50,30.7 GB,1,Agente_Efectivo,Mensual,561.0,False,Si
+CLI-00625,30/05/2022,Intermedio,S/69.97,19.8 GB,ninguno,Debito_Automatico,Mensual,519.0,0,No
+CLI-00626,2022-02-19,Intermedio,S/80.93,17.7 GB,ninguno,Debito_Automatico,Anual_12M,622.0,Si,0
+CLI-00627,03/03/2024,Intermedio,S/ 67.03,23.9 GB,ninguno,App_Bancaria,Anual_12M,672.0,1,No
+CLI-00628,05/07/2025,Premium,S/ 84.84,64.3 GB,3,App_Bancaria,Mensual,668.0,Si,0
+CLI-00629,2023-09-01,Basico,S/ 55.14,56.4 GB,ninguno,App_Bancaria,Bianual_24M,398.0,True,0
+CLI-00630,01/03/2024,Basico,S/ 60.75,4.4 GB,2.0,App_Bancaria,Mensual,561.0,True,0
+CLI-00631,09/02/2025,Premium,S/91.54,N/D,2,Agente_Efectivo,Anual_12M,724.0,False,1
+CLI-00632,08/10/2024,Ultra,S/157.78,14.7 GB,1,Debito_Automatico,Anual_12M,649.0,No,0
+CLI-00633,2022-11-15,Intermedio,S/87.33,80.6 GB,1.0,Agente_Efectivo,Anual_12M,509.0,0,Si
+CLI-00634,31/07/2022,Intermedio,S/104.59,15.3 GB,1,App_Bancaria,Anual_12M,732.0,False,0
+CLI-00635,2026-01-25,Basico,S/50.15,46.7 GB,1,App_Bancaria,Mensual,707.0,No,1
+CLI-00636,2022-07-11,Intermedio,,24.0 GB,4.0,App_Bancaria,Mensual,593.0,True,0
+CLI-00637,2026-07-16,Intermedio,S/77.71,40.3 GB,1,Debito_Automatico,Anual_12M,699.0,1,0
+CLI-00638,18/04/2024,Basico,S/66.40,24.7 GB,1,Agente_Efectivo,Anual_12M,800.0,False,No
+CLI-00639,13/08/2024,Basico,S/42.15,13.5 GB,1,App_Bancaria,Mensual,525.0,Si,No
+CLI-00640,2026-02-19,Intermedio,S/70.31,18.2 GB,2.0,Debito_Automatico,Anual_12M,670.0,Si,No
+CLI-00641,24/10/2023,Basico,S/44.11,8.1 GB,1,App_Bancaria,Mensual,799.0,True,0
+CLI-00642,2023-06-11,Basico,S/38.46,N/D,1,Agente_Efectivo,Anual_12M,679.0,False,No
+CLI-00643,2023-11-10,Basico,,49.3 GB,3.0,App_Bancaria,Bianual_24M,552.0,No,No
+CLI-00644,22/07/2024,Basico,S/ 69.40,37.5 GB,ninguno,Agente_Efectivo,Mensual,642.0,False,1
+CLI-00645,2024-09-21,Basico,S/53.78,39.2 GB,ninguno,Debito_Automatico,Mensual,743.0,False,0
+CLI-00646,29/10/2024,Ultra,,16.3 GB,0,Debito_Automatico,Anual_12M,529.0,False,0
+CLI-00647,2022-11-06,Intermedio,S/ 76.40,35.1 GB,0,Debito_Automatico,Anual_12M,617.0,0,0
+CLI-00648,2025-01-26,Premium,S/ 101.14,21.0 GB,1,App_Bancaria,Anual_12M,598.0,1,0
+CLI-00649,08/11/2025,Premium,S/130.50,90.7 GB,3,Debito_Automatico,Bianual_24M,563.0,1,No
+CLI-00650,07/12/2022,Intermedio,S/ 78.97,39.5 GB,1,Debito_Automatico,Bianual_24M,642.0,True,No
+CLI-00651,2022-09-10,Basico,S/ 47.73,19.1 GB,ninguno,Agente_Efectivo,Bianual_24M,611.0,Si,No
+CLI-00652,23/05/2026,Intermedio,S/118.22,25.0 GB,1,Agente_Efectivo,Anual_12M,678.0,True,Si
+CLI-00653,20/06/2024,Intermedio,S/83.49,30.5 GB,3,App_Bancaria,Mensual,723.0,True,No
+CLI-00654,04/06/2026,Premium,S/110.88,23.9 GB,0,Debito_Automatico,Mensual,505.0,0,1
+CLI-00655,2022-09-18,Intermedio,S/ 74.78,15.6 GB,2,Debito_Automatico,Mensual,626.0,No,Si
+CLI-00656,11/02/2024,Basico,S/ 63.68,41.0 GB,0,Debito_Automatico,Anual_12M,615.0,0,No
+CLI-00657,27/05/2026,Basico,S/ 51.26,50.7 GB,0,App_Bancaria,Mensual,638.0,No,No
+CLI-00658,2022-05-18,Intermedio,S/ 62.64,53.1 GB,1,Agente_Efectivo,Bianual_24M,619.0,False,No
+CLI-00659,25/01/2021,Intermedio,S/ 90.93,46.9 GB,1,App_Bancaria,Anual_12M,532.0,False,Si
+CLI-00660,08/07/2022,Intermedio,S/71.88,15.9 GB,3,Debito_Automatico,Anual_12M,751.0,False,0
+CLI-00661,04/11/2025,Intermedio,S/102.38,47.0 GB,0,App_Bancaria,Mensual,-999,Si,0
+CLI-00662,06/08/2023,Ultra,S/ 182.86,46.9 GB,1,Debito_Automatico,Mensual,669.0,1,No
+CLI-00663,24/02/2023,Intermedio,S/ 74.53,41.7 GB,2,App_Bancaria,Mensual,674.0,0,0
+CLI-00664,24/06/2023,Basico,S/65.27,55.5 GB,1,App_Bancaria,Mensual,632.0,0,Si
+CLI-00665,03/11/2022,Basico,S/50.71,19.8 GB,1,App_Bancaria,Mensual,-999,Si,No
+CLI-00666,12/10/2025,Basico,S/ 60.13,25.6 GB,1,Debito_Automatico,Anual_12M,400.0,Si,1
+CLI-00667,17/05/2026,Basico,S/55.72,52.6 GB,1,Debito_Automatico,Bianual_24M,620.0,False,0
+CLI-00668,2022-07-29,Basico,S/ 39.74,30.1 GB,ninguno,Agente_Efectivo,Bianual_24M,568.0,1,0
+CLI-00669,2023-06-23,Basico,S/ 42.18,21.4 GB,2,Debito_Automatico,Anual_12M,633.0,No,No
+CLI-00670,04/09/2026,Basico,,37.9 GB,1.0,Debito_Automatico,Mensual,718.0,1,No
+CLI-00671,2024-03-16,Basico,S/45.88,64.9 GB,1.0,Debito_Automatico,Bianual_24M,622.0,0,No
+CLI-00672,24/12/2023,Ultra,S/ 165.06,20.3 GB,2,Debito_Automatico,Bianual_24M,588.0,Si,0
+CLI-00673,27/06/2024,Basico,S/ 38.44,92.3 GB,ninguno,App_Bancaria,Mensual,494.0,No,0
+CLI-00674,17/10/2025,Intermedio,S/ 84.98,18.9 GB,0,Agente_Efectivo,Anual_12M,610.0,True,No
+CLI-00675,18/03/2021,Intermedio,S/104.65,29.1 GB,0,Debito_Automatico,Mensual,681.0,False,0
+CLI-00676,08/12/2025,Ultra,S/ 157.09,N/D,2,App_Bancaria,Bianual_24M,544.0,False,0
+CLI-00677,2021-12-24,Basico,S/ 50.19,31.9 GB,4,App_Bancaria,Bianual_24M,440.0,0,No
+CLI-00678,24/08/2021,Intermedio,S/ 96.85,55.2 GB,0,App_Bancaria,Mensual,825.0,0,0
+CLI-00679,2023-06-05,Ultra,S/ 168.94,11.4 GB,ninguno,Agente_Efectivo,Bianual_24M,650.0,False,0
+CLI-00680,2022-02-10,Premium,S/125.33,23.6 GB,0,Agente_Efectivo,Anual_12M,600.0,0,No
+CLI-00681,2020-12-21,Premium,S/ 107.15,34.8 GB,1,Debito_Automatico,Bianual_24M,745.0,0,No
+CLI-00682,2024-09-08,Basico,S/ 55.04,10.2 GB,1,Agente_Efectivo,Mensual,633.0,0,Si
+CLI-00683,2024-08-24,Basico,S/47.65,12.9 GB,1,App_Bancaria,Bianual_24M,740.0,0,0
+CLI-00684,2023-05-13,Premium,S/ 131.73,48.2 GB,0,Agente_Efectivo,Mensual,732.0,Si,No
+CLI-00685,21/06/2024,Ultra,S/ 184.15,26.8 GB,1,App_Bancaria,Mensual,505.0,No,1
+CLI-00686,14/07/2021,Intermedio,S/ 110.97,23.3 GB,1,Agente_Efectivo,Mensual,661.0,False,No
+CLI-00687,2022-06-21,Intermedio,S/86.86,24.3 GB,ninguno,Agente_Efectivo,Bianual_24M,775.0,False,No
+CLI-00688,2023-06-02,Basico,S/53.81,82.1 GB,1,Debito_Automatico,Bianual_24M,,0,No
+CLI-00689,15/05/2025,Premium,S/122.23,55.1 GB,ninguno,App_Bancaria,Bianual_24M,531.0,0,0
+CLI-00690,14/01/2023,Basico,,45.8 GB,2,Agente_Efectivo,Bianual_24M,546.0,No,No
+CLI-00691,03/10/2022,Basico,S/53.96,29.8 GB,0,Agente_Efectivo,Mensual,700.0,0,No
+CLI-00692,2022-11-16,Intermedio,S/76.36,9.9 GB,1,Debito_Automatico,Mensual,646.0,0,0
+CLI-00693,18/07/2023,Intermedio,S/81.92,31.7 GB,2.0,App_Bancaria,Mensual,446.0,False,0
+CLI-00694,02/09/2024,Basico,S/ 65.71,25.7 GB,0,Debito_Automatico,Mensual,-999,0,No
+CLI-00695,22/06/2024,Basico,S/ 37.82,N/D,4.0,Debito_Automatico,Mensual,597.0,No,Si
+CLI-00696,2022-11-04,Intermedio,S/93.58,85.6 GB,0,App_Bancaria,Mensual,610.0,0,No
+CLI-00697,2025-12-24,Basico,S/65.71,53.3 GB,1,Debito_Automatico,Mensual,545.0,0,0
+CLI-00698,2025-09-19,Intermedio,S/ 78.48,43.0 GB,0,Agente_Efectivo,Mensual,,0,0
+CLI-00699,2026-03-19,Basico,S/24.44,8.0 GB,1,Debito_Automatico,Mensual,715.0,1,Si
+CLI-00700,26/03/2025,Intermedio,S/ 72.61,61.2 GB,2,Agente_Efectivo,Mensual,562.0,0,Si
+CLI-00701,12/10/2025,Intermedio,,25.3 GB,3,Debito_Automatico,Bianual_24M,469.0,No,No
+CLI-00702,22/06/2022,Basico,S/ 49.63,23.8 GB,0,Debito_Automatico,Anual_12M,593.0,True,No
+CLI-00703,27/11/2023,Basico,S/37.91,40.4 GB,1,Debito_Automatico,Bianual_24M,688.0,1,0
+CLI-00704,19/09/2025,Basico,S/ 43.84,34.8 GB,2,Debito_Automatico,Mensual,582.0,False,1
+CLI-00705,2024-11-22,Basico,S/59.99,11.8 GB,2,Debito_Automatico,Mensual,485.0,False,1
+CLI-00706,18/11/2021,Ultra,S/176.46,27.2 GB,3,Debito_Automatico,Anual_12M,689.0,No,No
+CLI-00707,17/04/2024,Basico,S/47.03,12.3 GB,0,App_Bancaria,Mensual,747.0,False,Si
+CLI-00708,2026-07-19,Premium,S/ 115.50,13.0 GB,4,Debito_Automatico,Mensual,622.0,0,0
+CLI-00709,2026-02-14,Basico,S/45.20,41.4 GB,1,App_Bancaria,Mensual,475.0,0,No
+CLI-00710,28/12/2021,Premium,S/ 108.83,32.0 GB,2,App_Bancaria,Mensual,591.0,1,0
+CLI-00711,14/02/2024,Premium,S/ 139.28,73.6 GB,2.0,Agente_Efectivo,Mensual,634.0,0,Si
+CLI-00712,2020-12-16,Intermedio,S/76.03,16.5 GB,3,Agente_Efectivo,Mensual,547.0,Si,No
+CLI-00713,05/09/2025,Intermedio,S/ 94.51,79.2 GB,0,App_Bancaria,Anual_12M,673.0,False,No
+CLI-00714,20/09/2023,Intermedio,S/ 98.16,20.6 GB,1,Debito_Automatico,Mensual,538.0,No,1
+CLI-00715,09/01/2026,Basico,S/ 61.88,22.8 GB,1,Debito_Automatico,Mensual,,False,No
+CLI-00716,2023-10-06,Ultra,S/164.72,17.7 GB,2.0,Agente_Efectivo,Bianual_24M,599.0,No,No
+CLI-00717,2025-01-30,Premium,S/ 124.74,38.2 GB,ninguno,Debito_Automatico,Mensual,675.0,Si,0
+CLI-00718,01/01/2023,Ultra,S/169.61,N/D,,Debito_Automatico,Mensual,619.0,No,Si
+CLI-00719,29/12/2023,Basico,S/39.06,20.1 GB,1.0,Debito_Automatico,Bianual_24M,602.0,1,No
+CLI-00720,2024-02-14,Premium,S/123.79,70.7 GB,1,Debito_Automatico,Mensual,548.0,1,1
+CLI-00721,2024-11-29,Ultra,S/155.75,15.7 GB,ninguno,Debito_Automatico,Mensual,623.0,No,Si
+CLI-00722,2022-02-05,Basico,S/ 64.15,32.9 GB,2,Agente_Efectivo,Mensual,597.0,True,0
+CLI-00723,2020-10-31,Basico,S/ 44.32,43.6 GB,1,Debito_Automatico,Mensual,542.0,False,No
+CLI-00724,02/09/2026,Premium,S/ 122.31,54.9 GB,2,App_Bancaria,Anual_12M,634.0,0,No
+CLI-00725,05/01/2023,Intermedio,S/ 83.30,66.6 GB,0,Debito_Automatico,Bianual_24M,653.0,Si,0
+CLI-00726,2022-12-02,Premium,S/116.79,27.6 GB,1,Debito_Automatico,Mensual,590.0,1,No
+CLI-00727,2023-08-06,Basico,S/ 56.94,44.0 GB,1,Agente_Efectivo,Anual_12M,704.0,0,0
+CLI-00728,24/01/2025,Premium,S/ 114.20,44.6 GB,1,Debito_Automatico,Anual_12M,644.0,0,No
+CLI-00729,2025-04-12,Basico,S/60.36,17.9 GB,1,Agente_Efectivo,Mensual,504.0,No,1
+CLI-00730,15/05/2024,Basico,S/33.75,27.9 GB,0,App_Bancaria,Anual_12M,740.0,No,No
+CLI-00731,24/06/2026,Basico,S/51.42,15.9 GB,ninguno,Debito_Automatico,Mensual,689.0,0,Si
+CLI-00732,20/11/2022,Premium,S/143.17,23.3 GB,0,Agente_Efectivo,Mensual,710.0,No,No
+CLI-00733,2024-03-06,Premium,S/107.90,29.2 GB,1.0,Debito_Automatico,Mensual,656.0,True,No
+CLI-00734,2025-10-27,Intermedio,S/71.77,43.2 GB,3,Agente_Efectivo,Mensual,410.0,False,Si
+CLI-00735,2023-11-24,Intermedio,S/ 86.07,23.2 GB,1,Debito_Automatico,Mensual,718.0,0,0
+CLI-00736,2026-08-26,Ultra,S/172.05,54.6 GB,2,Agente_Efectivo,Bianual_24M,625.0,False,No
+CLI-00737,2024-12-12,Intermedio,S/84.11,11.7 GB,0,Debito_Automatico,Mensual,652.0,0,1
+CLI-00738,09/03/2021,Premium,S/ 125.77,24.1 GB,1,App_Bancaria,Mensual,669.0,0,0
+CLI-00739,25/06/2022,Intermedio,S/ 87.52,21.7 GB,2,Agente_Efectivo,Mensual,794.0,1,Si
+CLI-00740,21/03/2022,Intermedio,S/93.22,53.1 GB,ninguno,Agente_Efectivo,Anual_12M,571.0,No,No
+CLI-00741,2023-11-18,Intermedio,S/84.82,26.0 GB,2,Agente_Efectivo,Anual_12M,573.0,No,No
+CLI-00742,06/07/2025,Basico,S/ 47.00,22.9 GB,2,Agente_Efectivo,Anual_12M,543.0,No,1
+CLI-00743,01/02/2022,Premium,S/ 127.97,13.3 GB,ninguno,Agente_Efectivo,Anual_12M,524.0,Si,No
+CLI-00744,2023-01-25,Intermedio,S/102.70,45.7 GB,1,Debito_Automatico,Bianual_24M,525.0,0,No
+CLI-00745,06/07/2024,Basico,S/48.31,9.1 GB,2,Debito_Automatico,Mensual,453.0,No,No
+CLI-00746,2024-08-21,Ultra,,46.7 GB,2.0,Debito_Automatico,Anual_12M,658.0,False,No
+CLI-00747,2026-09-20,Intermedio,S/ 93.18,29.3 GB,0,App_Bancaria,Bianual_24M,799.0,True,No
+CLI-00748,2024-03-26,Intermedio,S/78.46,22.2 GB,2,App_Bancaria,Bianual_24M,805.0,No,No
+CLI-00749,30/06/2024,Ultra,S/ 143.83,N/D,1,App_Bancaria,Bianual_24M,543.0,True,0
+CLI-00750,26/02/2023,Intermedio,S/90.07,26.0 GB,0,Debito_Automatico,Mensual,596.0,False,No
+CLI-00751,2021-03-25,Basico,S/ 43.48,25.7 GB,0,App_Bancaria,Mensual,731.0,No,1
+CLI-00752,2023-05-23,Ultra,S/ 168.81,6.2 GB,2.0,Debito_Automatico,Mensual,659.0,1,1
+CLI-00753,2024-11-05,Intermedio,S/ 83.88,55.7 GB,1,Debito_Automatico,Anual_12M,632.0,0,No
+CLI-00754,2024-02-26,Basico,S/ 52.19,14.5 GB,1,App_Bancaria,Mensual,597.0,0,No
+CLI-00755,2022-10-25,Basico,S/ 58.41,15.7 GB,1,Agente_Efectivo,Mensual,726.0,No,0
+CLI-00756,2026-07-26,Premium,S/ 114.67,26.7 GB,1,App_Bancaria,Bianual_24M,523.0,0,No
+CLI-00757,2021-11-16,Intermedio,,49.2 GB,1.0,App_Bancaria,Mensual,-999,0,Si
+CLI-00758,12/05/2021,Intermedio,S/ 76.79,36.9 GB,0,Debito_Automatico,Bianual_24M,651.0,False,No
+CLI-00759,05/03/2026,Ultra,S/178.77,16.2 GB,3,App_Bancaria,Mensual,624.0,0,No
+CLI-00760,13/05/2025,Premium,S/ 127.28,68.3 GB,,Debito_Automatico,Mensual,691.0,No,1
+CLI-00761,2021-02-07,Basico,S/38.67,27.7 GB,1,App_Bancaria,Mensual,623.0,0,0
+CLI-00762,2022-08-03,Basico,S/ 62.93,82.6 GB,2,App_Bancaria,Anual_12M,572.0,True,0
+CLI-00763,2025-11-05,Basico,S/ 43.47,41.2 GB,ninguno,Debito_Automatico,Mensual,628.0,False,Si
+CLI-00764,2025-03-31,Premium,S/129.60,42.2 GB,2,Debito_Automatico,Mensual,477.0,False,1
+CLI-00765,2022-04-22,Basico,S/54.31,19.0 GB,2.0,Agente_Efectivo,Bianual_24M,675.0,False,0
+CLI-00766,05/03/2024,Intermedio,S/101.96,8.5 GB,2,Agente_Efectivo,Mensual,698.0,0,0
+CLI-00767,05/10/2024,Premium,S/117.22,17.1 GB,3,App_Bancaria,Anual_12M,561.0,False,No
+CLI-00768,2024-05-06,Ultra,S/165.71,50.3 GB,3,Debito_Automatico,Anual_12M,539.0,False,No
+CLI-00769,2024-12-23,Basico,S/ 49.67,35.6 GB,0,Debito_Automatico,Mensual,564.0,False,No
+CLI-00770,07/01/2024,Premium,S/116.26,13.0 GB,0,App_Bancaria,Anual_12M,614.0,0,No
+CLI-00771,2022-08-03,Basico,S/59.50,81.3 GB,0,Agente_Efectivo,Mensual,639.0,Si,Si
+CLI-00772,04/05/2022,Premium,S/100.50,33.0 GB,0,Debito_Automatico,Anual_12M,765.0,False,0
+CLI-00773,28/12/2023,Basico,S/37.26,36.3 GB,3,Agente_Efectivo,Mensual,754.0,False,1
+CLI-00774,05/07/2022,Intermedio,S/ 67.09,44.5 GB,3,Debito_Automatico,Anual_12M,695.0,False,No
+CLI-00775,2024-07-21,Premium,S/ 131.30,20.2 GB,2,Agente_Efectivo,Mensual,,0,Si
+CLI-00776,2026-03-03,Basico,S/70.43,65.0 GB,1,App_Bancaria,Anual_12M,537.0,1,0
+CLI-00777,2026-04-17,Basico,,10.0 GB,0,Agente_Efectivo,Mensual,771.0,True,1
+CLI-00778,29/01/2024,Premium,S/117.87,45.0 GB,1,Debito_Automatico,Mensual,,No,No
+CLI-00779,12/02/2023,Premium,S/120.74,112.1 GB,0,App_Bancaria,Mensual,645.0,False,No
+CLI-00780,10/05/2026,Intermedio,S/ 93.84,7.7 GB,4.0,Debito_Automatico,Mensual,676.0,No,Si
+CLI-00781,30/10/2021,Premium,S/ 108.77,11.5 GB,3,Debito_Automatico,Bianual_24M,626.0,No,0
+CLI-00782,05/05/2025,Intermedio,S/ 82.76,53.0 GB,4,Agente_Efectivo,Mensual,724.0,1,1
+CLI-00783,07/07/2025,Basico,S/61.60,8.6 GB,2,Agente_Efectivo,Bianual_24M,661.0,1,No
+CLI-00784,04/08/2026,Basico,S/55.91,42.9 GB,2,Agente_Efectivo,Bianual_24M,709.0,0,Si
+CLI-00785,23/04/2025,Basico,S/ 52.17,32.2 GB,1,App_Bancaria,Anual_12M,660.0,No,0
+CLI-00786,14/12/2023,Ultra,S/181.91,44.7 GB,2,Agente_Efectivo,Mensual,617.0,No,1
+CLI-00787,2022-06-21,Intermedio,S/ 47.46,20.7 GB,0,Debito_Automatico,Mensual,627.0,No,0
+CLI-00788,26/09/2023,Intermedio,S/ 88.03,27.8 GB,0,Debito_Automatico,Anual_12M,-999,0,No
+CLI-00789,2025-07-27,Intermedio,S/72.05,33.4 GB,2,Debito_Automatico,Mensual,504.0,1,No
+CLI-00790,2023-07-14,Ultra,S/ 147.93,52.5 GB,2,App_Bancaria,Mensual,530.0,0,Si
+CLI-00791,28/08/2025,Basico,S/56.03,16.0 GB,3,App_Bancaria,Anual_12M,687.0,False,Si
+CLI-00792,28/12/2020,Intermedio,S/96.38,22.7 GB,2,Debito_Automatico,Bianual_24M,507.0,Si,0
+CLI-00793,05/02/2025,Intermedio,S/78.25,23.3 GB,1,App_Bancaria,Anual_12M,584.0,No,1
+CLI-00794,2021-10-18,Intermedio,S/ 91.33,N/D,1,Agente_Efectivo,Mensual,525.0,False,No
+CLI-00795,30/09/2022,Basico,S/ 69.25,61.6 GB,0,App_Bancaria,Anual_12M,579.0,No,Si
+CLI-00796,2021-11-24,Ultra,S/185.68,10.2 GB,ninguno,Debito_Automatico,Mensual,606.0,No,No
+CLI-00797,02/07/2022,Ultra,S/189.58,73.6 GB,ninguno,Debito_Automatico,Mensual,-999,False,No
+CLI-00798,2023-10-02,Intermedio,S/88.81,45.7 GB,3,Debito_Automatico,Bianual_24M,491.0,Si,No
+CLI-00799,18/03/2024,Premium,S/ 120.81,41.1 GB,2,Debito_Automatico,Mensual,603.0,1,Si
+CLI-00800,30/05/2021,Ultra,S/ 150.68,16.4 GB,2,App_Bancaria,Mensual,534.0,True,No
+CLI-00801,2021-05-08,Premium,S/116.95,46.6 GB,2,App_Bancaria,Mensual,563.0,No,No
+CLI-00802,06/02/2021,Basico,S/39.78,29.3 GB,0,App_Bancaria,Bianual_24M,687.0,1,No
+CLI-00803,01/07/2022,Intermedio,S/ 105.95,34.4 GB,0,App_Bancaria,Anual_12M,706.0,No,No
+CLI-00804,2025-11-11,Intermedio,S/ 77.79,76.9 GB,1,Agente_Efectivo,Anual_12M,502.0,True,0
+CLI-00805,2024-01-12,Intermedio,S/81.38,27.5 GB,1,Debito_Automatico,Anual_12M,761.0,0,0
+CLI-00806,2025-01-28,Premium,S/ 126.52,68.6 GB,2,App_Bancaria,Mensual,574.0,Si,1
+CLI-00807,2025-02-14,Ultra,S/ 170.42,N/D,ninguno,Agente_Efectivo,Mensual,566.0,False,1
+CLI-00808,26/03/2024,Ultra,S/ 190.24,15.0 GB,1,Debito_Automatico,Mensual,540.0,Si,Si
+CLI-00809,13/06/2024,Intermedio,S/ 72.43,12.7 GB,0,Debito_Automatico,Mensual,625.0,No,0
+CLI-00810,2023-05-26,Basico,S/52.24,36.5 GB,0,Agente_Efectivo,Mensual,798.0,0,0
+CLI-00811,2025-10-24,Ultra,S/ 160.99,48.5 GB,2,Debito_Automatico,Bianual_24M,,No,0
+CLI-00812,13/08/2021,Premium,S/ 104.06,45.1 GB,1,App_Bancaria,Mensual,435.0,True,0
+CLI-00813,2024-05-27,Basico,S/ 42.56,57.1 GB,1,Debito_Automatico,Mensual,644.0,True,0
+CLI-00814,2022-11-09,Ultra,S/ 169.46,42.0 GB,2,App_Bancaria,Mensual,671.0,0,Si
+CLI-00815,2025-07-15,Premium,S/114.75,11.8 GB,3,Debito_Automatico,Mensual,625.0,0,0
+CLI-00816,09/11/2021,Intermedio,S/ 71.59,36.5 GB,1,Debito_Automatico,Bianual_24M,674.0,No,0
+CLI-00817,23/02/2026,Intermedio,S/63.02,20.8 GB,1,App_Bancaria,Mensual,518.0,False,Si
+CLI-00818,18/02/2025,Intermedio,S/ 78.90,32.9 GB,3,Debito_Automatico,Mensual,535.0,0,1
+CLI-00819,2023-12-07,Basico,S/ 31.84,25.4 GB,2,App_Bancaria,Anual_12M,631.0,No,Si
+CLI-00820,17/03/2023,Basico,S/ 59.02,23.1 GB,1,Debito_Automatico,Mensual,778.0,No,0
+CLI-00821,20/12/2023,Premium,S/ 120.89,26.3 GB,2.0,Debito_Automatico,Mensual,670.0,False,No
+CLI-00822,07/02/2021,Basico,S/32.41,72.8 GB,2,Debito_Automatico,Mensual,675.0,True,No
+CLI-00823,2022-10-16,Basico,S/ 46.19,6.4 GB,0,Debito_Automatico,Anual_12M,523.0,No,No
+CLI-00824,25/02/2021,Intermedio,S/70.87,13.3 GB,1,Agente_Efectivo,Bianual_24M,658.0,True,0
+CLI-00825,27/04/2025,Intermedio,,14.4 GB,4,Debito_Automatico,Anual_12M,514.0,No,0
+CLI-00826,2021-02-02,Ultra,S/ 185.99,25.0 GB,1,App_Bancaria,Mensual,779.0,No,No
+CLI-00827,2021-10-20,Basico,S/ 27.40,43.4 GB,1,Debito_Automatico,Bianual_24M,-999,False,No
+CLI-00828,01/03/2023,Basico,S/51.28,3.0 GB,0,Debito_Automatico,Mensual,548.0,0,Si
+CLI-00829,06/03/2023,Premium,S/ 117.98,24.0 GB,2,Agente_Efectivo,Mensual,487.0,No,Si
+CLI-00830,09/10/2023,Intermedio,S/ 87.96,46.5 GB,2,Debito_Automatico,Mensual,628.0,False,Si
+CLI-00831,05/03/2022,Basico,S/ 52.46,55.0 GB,0,Agente_Efectivo,Mensual,624.0,No,No
+CLI-00832,23/07/2025,Intermedio,S/ 70.88,8.9 GB,1,Debito_Automatico,Anual_12M,756.0,Si,No
+CLI-00833,2024-06-26,Basico,S/46.07,53.6 GB,1.0,App_Bancaria,Anual_12M,690.0,Si,No
+CLI-00834,2026-01-17,Basico,S/40.35,47.4 GB,1,App_Bancaria,Bianual_24M,549.0,False,No
+CLI-00835,08/04/2021,Intermedio,S/92.81,59.5 GB,4,Agente_Efectivo,Anual_12M,699.0,True,Si
+CLI-00836,2021-04-22,Intermedio,S/80.16,29.0 GB,1,App_Bancaria,Anual_12M,508.0,False,0
+CLI-00837,2026-06-22,Ultra,,34.7 GB,2,App_Bancaria,Mensual,555.0,0,Si
+CLI-00838,14/01/2024,Intermedio,S/ 79.17,47.9 GB,2,Debito_Automatico,Mensual,631.0,No,0
+CLI-00839,25/08/2024,Intermedio,S/71.40,33.2 GB,1,Debito_Automatico,Anual_12M,518.0,0,No
+CLI-00840,2023-09-04,Intermedio,S/ 61.74,9.6 GB,2,Agente_Efectivo,Mensual,716.0,No,1
+CLI-00841,2023-05-30,Basico,S/ 28.26,15.0 GB,1,Debito_Automatico,Bianual_24M,825.0,False,No
+CLI-00842,2026-02-08,Premium,S/100.89,29.3 GB,2,App_Bancaria,Mensual,593.0,No,1
+CLI-00843,2023-08-15,Basico,S/53.11,71.8 GB,1,Agente_Efectivo,Mensual,561.0,Si,No
+CLI-00844,27/08/2024,Ultra,S/176.00,40.7 GB,1,Debito_Automatico,Mensual,608.0,No,No
+CLI-00845,2024-01-16,Basico,S/30.93,18.4 GB,1.0,Agente_Efectivo,Mensual,570.0,0,No
+CLI-00846,08/12/2021,Intermedio,S/ 90.64,19.5 GB,0,App_Bancaria,Mensual,644.0,False,0
+CLI-00847,25/05/2025,Basico,S/ 44.10,20.1 GB,1,App_Bancaria,Anual_12M,501.0,False,No
+CLI-00848,20/11/2023,Ultra,S/ 171.66,25.6 GB,5,Agente_Efectivo,Mensual,649.0,No,Si
+CLI-00849,2022-01-10,Intermedio,S/99.25,26.9 GB,3,Debito_Automatico,Anual_12M,792.0,False,No
+CLI-00850,29/01/2021,Intermedio,S/90.66,25.8 GB,4.0,Debito_Automatico,Mensual,440.0,0,1
+CLI-00851,2025-10-30,Basico,S/ 46.68,26.2 GB,1,App_Bancaria,Mensual,515.0,0,0
+CLI-00852,2021-06-13,Premium,S/ 109.21,9.8 GB,1,Debito_Automatico,Mensual,580.0,True,No
+CLI-00853,11/10/2021,Basico,S/ 24.08,10.0 GB,2,App_Bancaria,Bianual_24M,669.0,0,No
+CLI-00854,2026-05-19,Ultra,S/161.27,21.8 GB,0,Agente_Efectivo,Mensual,,0,1
+CLI-00855,17/11/2025,Basico,S/47.37,13.3 GB,1,App_Bancaria,Anual_12M,693.0,True,0
+CLI-00856,2021-08-26,Basico,S/ 38.05,26.0 GB,0,Debito_Automatico,Mensual,468.0,False,No
+CLI-00857,2024-03-31,Basico,S/48.32,46.7 GB,1,Agente_Efectivo,Anual_12M,559.0,Si,No
+CLI-00858,15/06/2023,Intermedio,S/80.82,58.3 GB,2,App_Bancaria,Mensual,539.0,No,Si
+CLI-00859,23/07/2021,Intermedio,S/ 77.20,46.5 GB,1,App_Bancaria,Anual_12M,614.0,0,0
+CLI-00860,29/11/2020,Basico,S/42.10,30.4 GB,4,App_Bancaria,Anual_12M,622.0,False,0
+CLI-00861,21/03/2024,Premium,S/ 121.92,42.0 GB,0,Agente_Efectivo,Bianual_24M,497.0,0,No
+CLI-00862,2021-01-01,Intermedio,S/ 85.20,29.7 GB,1,App_Bancaria,Mensual,580.0,True,0
+CLI-00863,23/04/2023,Intermedio,S/ 66.82,26.9 GB,2,Agente_Efectivo,Mensual,672.0,1,0
+CLI-00864,2021-04-29,Intermedio,S/96.83,42.5 GB,1,Agente_Efectivo,Mensual,563.0,0,Si
+CLI-00865,27/07/2025,Intermedio,S/78.72,24.7 GB,1,Debito_Automatico,Bianual_24M,602.0,0,No
+CLI-00866,08/01/2024,Intermedio,S/ 80.13,9.9 GB,1,App_Bancaria,Anual_12M,773.0,No,No
+CLI-00867,15/11/2020,Basico,S/58.40,24.0 GB,ninguno,Agente_Efectivo,Anual_12M,-999,False,0
+CLI-00868,17/01/2024,Basico,S/ 52.70,8.7 GB,2,App_Bancaria,Mensual,425.0,0,1
+CLI-00869,2025-02-11,Premium,S/131.34,23.2 GB,1.0,Agente_Efectivo,Mensual,,No,Si
+CLI-00870,02/09/2025,Ultra,S/173.35,37.1 GB,2,Agente_Efectivo,Mensual,,0,1
+CLI-00871,2025-08-14,Intermedio,,34.9 GB,2,App_Bancaria,Bianual_24M,663.0,1,0
+CLI-00872,2024-03-08,Basico,S/ 54.24,N/D,0,App_Bancaria,Anual_12M,622.0,False,0
+CLI-00873,2022-04-10,Intermedio,S/66.18,27.0 GB,1,Agente_Efectivo,Bianual_24M,738.0,0,0
+CLI-00874,10/04/2025,Intermedio,S/ 81.20,35.5 GB,1,Agente_Efectivo,Mensual,640.0,True,Si
+CLI-00875,2022-03-28,Basico,S/49.50,42.3 GB,2,App_Bancaria,Anual_12M,684.0,No,0
+CLI-00876,2021-06-05,Basico,S/47.40,23.3 GB,ninguno,Debito_Automatico,Anual_12M,601.0,No,No
+CLI-00877,11/07/2026,Premium,S/118.36,13.2 GB,1,App_Bancaria,Mensual,638.0,0,0
+CLI-00878,05/01/2026,Premium,S/ 97.32,36.3 GB,1,App_Bancaria,Bianual_24M,658.0,No,No
+CLI-00879,2025-09-10,Basico,S/ 43.32,14.8 GB,2,App_Bancaria,Bianual_24M,698.0,True,0
+CLI-00880,2026-03-03,Basico,S/ 51.01,16.6 GB,2,App_Bancaria,Bianual_24M,581.0,False,Si
+CLI-00881,05/08/2026,Basico,S/51.82,49.7 GB,3,App_Bancaria,Anual_12M,579.0,Si,Si
+CLI-00882,21/04/2022,Premium,S/ 107.57,N/D,1,App_Bancaria,Mensual,447.0,False,0
+CLI-00883,2024-06-12,Basico,S/ 65.09,65.2 GB,2,Debito_Automatico,Mensual,585.0,False,0
+CLI-00884,28/07/2022,Basico,S/39.51,54.1 GB,0,App_Bancaria,Bianual_24M,706.0,0,No
+CLI-00885,07/01/2022,Premium,S/131.53,30.4 GB,1,App_Bancaria,Mensual,662.0,1,0
+CLI-00886,02/06/2026,Basico,S/ 55.03,50.4 GB,2,Debito_Automatico,Anual_12M,530.0,False,No
+CLI-00887,27/10/2022,Premium,S/112.15,14.2 GB,1,Debito_Automatico,Anual_12M,449.0,No,No
+CLI-00888,28/07/2023,Basico,S/71.20,27.3 GB,1,App_Bancaria,Anual_12M,607.0,False,Si
+CLI-00889,20/03/2025,Basico,S/ 35.58,31.1 GB,ninguno,App_Bancaria,Bianual_24M,703.0,0,No
+CLI-00890,2020-10-28,Basico,S/ 60.93,24.9 GB,ninguno,Debito_Automatico,Mensual,577.0,Si,0
+CLI-00891,30/12/2021,Premium,S/131.91,48.5 GB,1,Agente_Efectivo,Mensual,490.0,False,0
+CLI-00892,11/04/2024,Premium,S/111.85,37.0 GB,ninguno,App_Bancaria,Mensual,567.0,No,0
+CLI-00893,2025-09-03,Premium,S/ 136.61,36.3 GB,ninguno,Agente_Efectivo,Mensual,649.0,No,1
+CLI-00894,10/01/2022,Intermedio,S/ 76.90,70.0 GB,0,App_Bancaria,Mensual,732.0,No,1
+CLI-00895,2022-01-20,Premium,S/ 123.36,30.5 GB,3,App_Bancaria,Mensual,597.0,False,Si
+CLI-00896,2024-03-12,Basico,S/53.02,55.9 GB,0,Agente_Efectivo,Bianual_24M,715.0,0,0
+CLI-00897,2023-09-27,Basico,S/ 48.29,56.8 GB,1,App_Bancaria,Bianual_24M,705.0,No,0
+CLI-00898,28/10/2022,Ultra,S/ 179.63,45.1 GB,1,App_Bancaria,Mensual,514.0,Si,1
+CLI-00899,20/07/2026,Basico,S/59.42,68.4 GB,2,Debito_Automatico,Mensual,733.0,True,Si
+CLI-00900,2025-12-12,Basico,S/28.92,33.3 GB,2,App_Bancaria,Bianual_24M,647.0,0,0
+CLI-00901,12/09/2026,Basico,S/65.55,37.2 GB,2,Debito_Automatico,Mensual,511.0,1,1
+CLI-00902,2023-11-29,Basico,S/ 29.95,20.1 GB,0,Debito_Automatico,Mensual,778.0,False,0
+CLI-00903,17/05/2023,Basico,S/ 62.29,23.6 GB,1,Debito_Automatico,Mensual,609.0,No,1
+CLI-00904,22/03/2025,Intermedio,S/ 93.42,36.0 GB,1,Debito_Automatico,Anual_12M,445.0,False,0
+CLI-00905,19/09/2023,Intermedio,S/66.81,25.1 GB,1,Agente_Efectivo,Mensual,556.0,0,No
+CLI-00906,18/07/2023,Ultra,S/164.97,40.0 GB,1,Debito_Automatico,Bianual_24M,534.0,No,0
+CLI-00907,2025-09-26,Premium,S/ 106.63,31.2 GB,0,App_Bancaria,Mensual,559.0,Si,0
+CLI-00908,15/03/2021,Basico,S/ 47.32,56.9 GB,0,Agente_Efectivo,Anual_12M,580.0,0,0
+CLI-00909,07/07/2024,Basico,S/46.20,29.7 GB,1,App_Bancaria,Mensual,597.0,Si,No
+CLI-00910,2023-07-16,Intermedio,S/89.26,N/D,1,Debito_Automatico,Mensual,593.0,False,0
+CLI-00911,26/07/2023,Intermedio,S/ 95.62,10.6 GB,0,App_Bancaria,Anual_12M,611.0,0,0
+CLI-00912,06/10/2023,Basico,S/66.65,18.8 GB,1,App_Bancaria,Anual_12M,673.0,0,No
+CLI-00913,2023-03-29,Intermedio,S/73.15,36.2 GB,4,App_Bancaria,Anual_12M,553.0,No,0
+CLI-00914,31/03/2021,Intermedio,S/77.39,23.2 GB,2,Agente_Efectivo,Anual_12M,726.0,0,Si
+CLI-00915,09/06/2024,Intermedio,S/59.70,30.2 GB,1,Agente_Efectivo,Bianual_24M,510.0,False,0
+CLI-00916,20/04/2021,Intermedio,S/70.23,28.7 GB,0,App_Bancaria,Bianual_24M,675.0,0,No
+CLI-00917,2025-04-30,Basico,S/61.48,28.3 GB,1,Debito_Automatico,Anual_12M,768.0,No,No
+CLI-00918,2025-09-27,Ultra,S/189.29,10.6 GB,1,App_Bancaria,Mensual,604.0,0,Si
+CLI-00919,2022-10-21,Premium,S/ 105.09,33.6 GB,1,Debito_Automatico,Mensual,637.0,No,No
+CLI-00920,24/06/2026,Basico,S/ 42.79,74.7 GB,1.0,Agente_Efectivo,Mensual,533.0,Si,1
+CLI-00921,11/12/2024,Premium,S/119.58,32.0 GB,2,Debito_Automatico,Anual_12M,574.0,True,No
+CLI-00922,24/02/2022,Intermedio,S/83.26,N/D,,Debito_Automatico,Mensual,761.0,1,No
+CLI-00923,2026-02-02,Ultra,S/160.18,78.6 GB,0,Agente_Efectivo,Mensual,687.0,True,0
+CLI-00924,2025-05-09,Premium,S/ 124.99,109.1 GB,2.0,App_Bancaria,Bianual_24M,658.0,False,0
+CLI-00925,14/07/2022,Intermedio,S/74.21,16.7 GB,ninguno,App_Bancaria,Bianual_24M,446.0,0,No
+CLI-00926,18/12/2020,Basico,S/ 49.73,82.2 GB,2.0,App_Bancaria,Bianual_24M,-999,False,No
+CLI-00927,02/09/2025,Basico,S/56.46,28.8 GB,2,Agente_Efectivo,Mensual,-999,False,1
+CLI-00928,29/01/2025,Intermedio,S/ 79.98,13.9 GB,0,Debito_Automatico,Anual_12M,657.0,No,Si
+CLI-00929,21/04/2023,Intermedio,S/ 74.66,48.5 GB,2,Agente_Efectivo,Mensual,668.0,False,1
+CLI-00930,01/09/2021,Basico,S/ 48.58,12.7 GB,ninguno,Debito_Automatico,Mensual,635.0,0,0
+CLI-00931,24/08/2024,Basico,S/48.84,27.4 GB,2,Agente_Efectivo,Mensual,-999,No,No
+CLI-00932,2022-11-10,Premium,,25.3 GB,0,Agente_Efectivo,Mensual,650.0,False,0
+CLI-00933,22/08/2025,Ultra,S/ 166.79,32.2 GB,4,Debito_Automatico,Mensual,482.0,False,1
+CLI-00934,17/08/2021,Intermedio,S/ 99.08,12.3 GB,1,App_Bancaria,Bianual_24M,476.0,0,No
+CLI-00935,2022-08-21,Basico,S/ 56.63,10.5 GB,0,Debito_Automatico,Mensual,554.0,False,1
+CLI-00936,2023-07-11,Basico,S/46.35,48.1 GB,2,App_Bancaria,Anual_12M,637.0,1,0
+CLI-00937,2024-12-18,Basico,S/ 58.26,59.3 GB,2,App_Bancaria,Anual_12M,-999,False,No
+CLI-00938,09/07/2023,Ultra,S/ 165.89,61.7 GB,0,App_Bancaria,Mensual,-999,False,0
+CLI-00939,2024-01-30,Basico,S/63.98,9.6 GB,3,Debito_Automatico,Mensual,530.0,0,1
+CLI-00940,2022-10-24,Intermedio,S/84.34,20.2 GB,2,Debito_Automatico,Mensual,-999,No,Si
+CLI-00941,04/01/2023,Basico,S/48.61,99.4 GB,ninguno,Debito_Automatico,Anual_12M,737.0,0,0
+CLI-00942,2026-02-16,Intermedio,S/85.27,17.3 GB,2,Debito_Automatico,Mensual,623.0,No,0
+CLI-00943,27/07/2021,Premium,S/101.05,9.4 GB,1,App_Bancaria,Mensual,539.0,No,0
+CLI-00944,2023-02-27,Premium,S/ 106.38,N/D,1,Agente_Efectivo,Mensual,637.0,0,1
+CLI-00945,28/10/2023,Basico,S/35.57,6.1 GB,3.0,App_Bancaria,Anual_12M,488.0,0,No
+CLI-00946,2024-02-01,Basico,S/51.62,8.4 GB,ninguno,App_Bancaria,Bianual_24M,654.0,False,0
+CLI-00947,2021-12-29,Basico,S/70.69,21.3 GB,3,Agente_Efectivo,Mensual,720.0,True,Si
+CLI-00948,2024-09-05,Ultra,S/196.68,21.8 GB,2,App_Bancaria,Anual_12M,680.0,No,1
+CLI-00949,16/11/2025,Ultra,S/177.56,7.9 GB,1,Agente_Efectivo,Anual_12M,,True,Si
+CLI-00950,26/03/2025,Intermedio,S/ 85.91,61.4 GB,2,App_Bancaria,Bianual_24M,446.0,0,1
+CLI-00951,2024-06-11,Intermedio,S/ 58.29,23.7 GB,2.0,Debito_Automatico,Bianual_24M,631.0,No,No
+CLI-00952,04/02/2023,Premium,S/113.39,24.7 GB,1,Debito_Automatico,Anual_12M,499.0,True,No
+CLI-00953,2022-12-16,Basico,S/40.45,23.7 GB,1,App_Bancaria,Anual_12M,604.0,False,0
+CLI-00954,04/12/2024,Ultra,S/ 162.45,30.3 GB,1,Debito_Automatico,Bianual_24M,620.0,0,0
+CLI-00955,08/06/2021,Intermedio,S/77.88,N/D,ninguno,Debito_Automatico,Mensual,825.0,1,No
+CLI-00956,07/04/2021,Intermedio,S/74.23,42.9 GB,1,App_Bancaria,Mensual,615.0,True,No
+CLI-00957,20/06/2021,Intermedio,S/ 56.15,31.9 GB,2,App_Bancaria,Mensual,613.0,No,No
+CLI-00958,17/09/2024,Basico,S/58.87,14.6 GB,2,App_Bancaria,Bianual_24M,710.0,No,No
+CLI-00959,27/11/2024,Basico,S/37.03,17.9 GB,3,Debito_Automatico,Bianual_24M,615.0,0,No
+CLI-00960,30/10/2020,Premium,S/ 122.77,24.4 GB,0,App_Bancaria,Mensual,785.0,0,Si
+CLI-00961,02/11/2023,Basico,S/74.79,23.4 GB,1,App_Bancaria,Anual_12M,680.0,0,0
+CLI-00962,23/01/2025,Intermedio,S/ 68.87,41.9 GB,1,Agente_Efectivo,Mensual,695.0,False,0
+CLI-00963,28/10/2020,Basico,S/ 19.54,8.7 GB,2,App_Bancaria,Mensual,452.0,False,No
+CLI-00964,15/11/2020,Intermedio,S/ 76.47,50.3 GB,2,Agente_Efectivo,Bianual_24M,799.0,0,No
+CLI-00965,14/01/2024,Basico,S/63.11,26.5 GB,3,Agente_Efectivo,Mensual,561.0,No,1
+CLI-00966,12/02/2023,Intermedio,S/ 103.40,12.7 GB,1,App_Bancaria,Mensual,619.0,0,No
+CLI-00967,2022-12-25,Premium,S/ 105.15,32.2 GB,1,Debito_Automatico,Anual_12M,561.0,0,No
+CLI-00968,2025-12-21,Basico,S/55.86,26.3 GB,3,App_Bancaria,Anual_12M,528.0,No,1
+CLI-00969,2020-12-22,Intermedio,S/ 74.32,18.8 GB,1,App_Bancaria,Mensual,512.0,No,1
+CLI-00970,15/11/2024,Intermedio,S/78.63,23.0 GB,1,App_Bancaria,Anual_12M,629.0,Si,No
+CLI-00971,2023-03-07,Premium,S/151.63,54.5 GB,2,App_Bancaria,Anual_12M,443.0,No,1
+CLI-00972,29/09/2022,Ultra,S/151.86,78.0 GB,1,App_Bancaria,Mensual,598.0,False,Si
+CLI-00973,25/09/2024,Premium,S/122.94,32.6 GB,2,Debito_Automatico,Mensual,715.0,False,1
+CLI-00974,23/05/2021,Basico,S/ 55.51,51.7 GB,0,App_Bancaria,Anual_12M,677.0,0,No
+CLI-00975,2021-07-26,Basico,S/ 62.93,45.8 GB,1,Debito_Automatico,Mensual,659.0,False,No
+CLI-00976,08/09/2022,Basico,S/51.08,54.4 GB,1,Agente_Efectivo,Bianual_24M,539.0,0,No
+CLI-00977,01/01/2021,Intermedio,S/83.60,28.6 GB,0,Debito_Automatico,Bianual_24M,477.0,0,No
+CLI-00978,04/06/2025,Basico,S/ 45.20,47.8 GB,1,Debito_Automatico,Bianual_24M,714.0,Si,0
+CLI-00979,2022-08-11,Intermedio,S/83.13,39.4 GB,1,App_Bancaria,Mensual,580.0,No,1
+CLI-00980,10/04/2021,Intermedio,S/ 75.78,19.0 GB,ninguno,App_Bancaria,Bianual_24M,613.0,False,0
+CLI-00981,15/12/2022,Basico,S/57.36,48.1 GB,,App_Bancaria,Mensual,602.0,False,No
+CLI-00982,07/12/2023,Premium,,20.6 GB,2,Debito_Automatico,Mensual,681.0,False,0
+CLI-00983,02/12/2021,Basico,S/54.43,N/D,2,App_Bancaria,Mensual,786.0,False,Si
+CLI-00984,04/12/2024,Basico,S/49.55,18.3 GB,2,Debito_Automatico,Mensual,752.0,Si,No
+CLI-00985,31/05/2023,Premium,S/133.41,22.3 GB,1,Agente_Efectivo,Anual_12M,410.0,No,1
+CLI-00986,20/06/2024,Intermedio,S/ 79.28,17.6 GB,2,Agente_Efectivo,Mensual,592.0,True,1
+CLI-00987,10/05/2024,Premium,S/98.62,77.9 GB,1,App_Bancaria,Mensual,499.0,0,No
+CLI-00988,05/01/2024,Intermedio,S/95.04,72.8 GB,2,Debito_Automatico,Anual_12M,704.0,No,No
+CLI-00989,2026-01-26,Basico,S/39.03,32.5 GB,1,App_Bancaria,Mensual,620.0,No,0
+CLI-00990,2021-06-11,Premium,S/112.05,20.5 GB,1,Debito_Automatico,Anual_12M,,No,0
+CLI-00991,2022-04-28,Premium,S/ 112.75,36.7 GB,2,App_Bancaria,Mensual,585.0,No,0
+CLI-00992,2023-04-18,Premium,S/136.39,18.2 GB,1,Debito_Automatico,Bianual_24M,526.0,True,0
+CLI-00993,2024-05-14,Basico,S/24.27,24.6 GB,3.0,Agente_Efectivo,Bianual_24M,542.0,False,0
+CLI-00994,2024-06-20,Intermedio,S/ 117.55,43.8 GB,1,Debito_Automatico,Mensual,482.0,1,Si
+CLI-00995,28/03/2024,Intermedio,S/ 92.57,24.8 GB,0,App_Bancaria,Mensual,506.0,Si,No
+CLI-00996,2022-01-12,Basico,S/52.58,31.9 GB,2,App_Bancaria,Mensual,487.0,True,Si
+CLI-00997,2023-02-27,Ultra,S/ 169.24,N/D,2.0,App_Bancaria,Bianual_24M,527.0,False,0
+CLI-00998,23/07/2021,Basico,,N/D,0,Debito_Automatico,Mensual,522.0,No,No
+CLI-00999,26/08/2025,Ultra,S/ 176.15,22.7 GB,3,Agente_Efectivo,Mensual,655.0,False,1
+CLI-01000,27/12/2020,Intermedio,S/87.64,20.0 GB,0,App_Bancaria,Mensual,652.0,False,1
+CLI-01001,13/02/2023,Basico,S/56.57,45.1 GB,0,App_Bancaria,Mensual,655.0,True,0
+CLI-01002,2023-08-21,Intermedio,S/ 80.97,29.8 GB,2,Debito_Automatico,Mensual,726.0,0,No
+CLI-01003,2026-03-07,Ultra,S/167.53,48.6 GB,4,App_Bancaria,Bianual_24M,613.0,True,Si
+CLI-01004,2023-11-03,Premium,S/118.08,N/D,1,App_Bancaria,Mensual,550.0,No,Si
+CLI-01005,2024-07-09,Premium,S/ 117.56,24.3 GB,3,Debito_Automatico,Mensual,819.0,Si,Si
+CLI-01006,2026-02-11,Premium,S/ 133.51,50.5 GB,3,Debito_Automatico,Bianual_24M,702.0,No,0
+CLI-01007,01/08/2024,Premium,S/127.02,23.2 GB,2,Agente_Efectivo,Bianual_24M,634.0,False,1
+CLI-01008,2021-07-13,Premium,S/ 84.62,1.0 GB,1,Debito_Automatico,Mensual,627.0,0,No
+CLI-01009,2022-05-03,Basico,S/57.77,48.1 GB,3,Debito_Automatico,Mensual,646.0,False,No
+CLI-01010,2020-10-27,Intermedio,S/ 82.24,38.3 GB,3,App_Bancaria,Mensual,602.0,No,0
+CLI-01011,02/11/2025,Basico,S/ 49.68,23.2 GB,3,Agente_Efectivo,Bianual_24M,632.0,1,No
+CLI-01012,2023-01-12,Ultra,S/165.24,78.7 GB,2,Debito_Automatico,Mensual,665.0,0,No
+CLI-01013,2022-04-07,Ultra,S/ 183.39,15.2 GB,3,App_Bancaria,Bianual_24M,555.0,False,1
+CLI-01014,2023-10-01,Basico,S/61.27,32.4 GB,ninguno,Debito_Automatico,Anual_12M,473.0,Si,No
+CLI-01015,2023-06-06,Premium,S/ 110.63,29.4 GB,1,Debito_Automatico,Anual_12M,433.0,False,No
+CLI-01016,2025-11-13,Ultra,S/ 174.78,8.9 GB,,Debito_Automatico,Mensual,700.0,Si,Si
+CLI-01017,07/11/2021,Basico,S/ 38.24,26.7 GB,1,Agente_Efectivo,Mensual,478.0,0,0
+CLI-01018,2025-12-23,Intermedio,S/ 63.34,60.3 GB,0,Debito_Automatico,Mensual,662.0,True,No
+CLI-01019,04/03/2026,Ultra,S/ 162.38,27.3 GB,1,Debito_Automatico,Mensual,516.0,0,No
+CLI-01020,19/03/2022,Basico,S/ 60.25,26.2 GB,4.0,App_Bancaria,Anual_12M,518.0,No,0
+CLI-01021,26/12/2021,Premium,S/131.34,64.6 GB,ninguno,Agente_Efectivo,Bianual_24M,555.0,1,0
+CLI-01022,2024-03-18,Basico,S/56.06,12.9 GB,,Debito_Automatico,Anual_12M,-999,0,0
+CLI-01023,2024-09-11,Ultra,S/ 178.60,56.1 GB,1,App_Bancaria,Anual_12M,504.0,0,1
+CLI-01024,2022-11-15,Ultra,S/176.09,7.6 GB,2,Debito_Automatico,Mensual,564.0,False,1
+CLI-01025,07/10/2021,Ultra,S/ 162.20,56.2 GB,2.0,App_Bancaria,Mensual,618.0,No,0
+CLI-01026,22/11/2023,Intermedio,S/ 85.08,12.4 GB,3,App_Bancaria,Mensual,511.0,0,0
+CLI-01027,2021-11-03,Premium,S/129.50,18.4 GB,ninguno,App_Bancaria,Anual_12M,749.0,0,No
+CLI-01028,28/07/2021,Premium,S/ 128.95,13.2 GB,1,Debito_Automatico,Bianual_24M,465.0,1,0
+CLI-01029,20/06/2026,Basico,S/ 64.17,47.5 GB,3,Debito_Automatico,Anual_12M,600.0,1,1
+CLI-01030,04/09/2022,Premium,S/ 128.40,32.4 GB,1,Debito_Automatico,Mensual,735.0,No,0
+CLI-01031,2022-09-11,Basico,S/54.12,49.6 GB,ninguno,App_Bancaria,Mensual,501.0,Si,No
+CLI-01032,08/10/2022,Intermedio,S/92.74,35.1 GB,ninguno,Debito_Automatico,Anual_12M,-999,False,No
+CLI-01033,2024-08-24,Basico,,24.3 GB,2,Agente_Efectivo,Mensual,632.0,No,1
+CLI-01034,22/05/2021,Basico,S/ 39.32,45.0 GB,0,Agente_Efectivo,Bianual_24M,547.0,No,0
+CLI-01035,2021-03-15,Basico,S/47.94,36.7 GB,1,Agente_Efectivo,Bianual_24M,,1,0
+CLI-01036,2025-09-19,Premium,,34.5 GB,1.0,Agente_Efectivo,Anual_12M,671.0,False,No
+CLI-01037,20/10/2024,Basico,S/ 41.80,23.5 GB,0,App_Bancaria,Mensual,578.0,False,0
+CLI-01038,30/12/2022,Premium,S/ 118.17,31.4 GB,1,App_Bancaria,Mensual,689.0,1,No
+CLI-01039,2026-02-20,Basico,S/ 40.39,26.6 GB,1,Debito_Automatico,Mensual,,False,No
+CLI-01040,2021-12-30,Basico,S/46.20,25.1 GB,ninguno,App_Bancaria,Mensual,568.0,No,0
+CLI-01041,25/09/2024,Intermedio,S/57.18,34.2 GB,0,App_Bancaria,Mensual,721.0,True,Si
+CLI-01042,09/02/2026,Premium,S/ 122.46,104.6 GB,ninguno,App_Bancaria,Anual_12M,553.0,0,0
+CLI-01043,03/04/2026,Basico,S/ 49.91,19.9 GB,0,Agente_Efectivo,Anual_12M,697.0,True,No
+CLI-01044,21/10/2024,Intermedio,S/70.09,78.5 GB,2,Debito_Automatico,Mensual,555.0,False,No
+CLI-01045,2021-07-28,Ultra,S/177.81,46.6 GB,3,Debito_Automatico,Mensual,592.0,False,No
+CLI-01046,01/08/2021,Intermedio,S/91.15,27.6 GB,1,Agente_Efectivo,Mensual,605.0,0,0
+CLI-01047,18/01/2025,Basico,S/ 30.61,14.6 GB,1,Debito_Automatico,Mensual,650.0,No,No
+CLI-01048,22/04/2023,Basico,S/40.75,10.8 GB,1,App_Bancaria,Bianual_24M,403.0,False,No
+CLI-01049,2023-08-09,Ultra,S/160.67,23.2 GB,,Agente_Efectivo,Mensual,661.0,No,1
+CLI-01050,14/09/2024,Basico,S/ 38.62,30.8 GB,1,App_Bancaria,Mensual,-999,No,No
+CLI-01051,11/05/2025,Ultra,S/179.85,59.1 GB,ninguno,App_Bancaria,Mensual,646.0,Si,No
+CLI-01052,10/06/2022,Intermedio,S/77.57,54.2 GB,1,Debito_Automatico,Bianual_24M,665.0,True,0
+CLI-01053,05/10/2021,Ultra,S/166.73,26.8 GB,0,Debito_Automatico,Anual_12M,655.0,No,0
+CLI-01054,09/08/2024,Premium,S/95.85,23.2 GB,1,Agente_Efectivo,Mensual,439.0,False,1
+CLI-01055,19/05/2026,Ultra,S/ 177.53,26.8 GB,1,App_Bancaria,Anual_12M,525.0,True,Si
+CLI-01056,2020-11-28,Intermedio,S/ 65.03,31.9 GB,0,App_Bancaria,Anual_12M,650.0,True,No
+CLI-01057,2021-11-20,Premium,S/ 120.62,19.4 GB,4,Debito_Automatico,Bianual_24M,638.0,No,No
+CLI-01058,29/05/2023,Intermedio,S/83.23,34.8 GB,0,Debito_Automatico,Mensual,549.0,False,No
+CLI-01059,07/02/2023,Intermedio,S/ 96.23,33.0 GB,5,Agente_Efectivo,Bianual_24M,686.0,0,No
+CLI-01060,2021-11-20,Intermedio,S/64.19,33.5 GB,3,App_Bancaria,Bianual_24M,597.0,0,0
+CLI-01061,08/03/2023,Ultra,S/ 133.67,N/D,1,App_Bancaria,Bianual_24M,700.0,0,No
+CLI-01062,2024-08-30,Ultra,S/172.11,66.1 GB,0,Debito_Automatico,Anual_12M,729.0,False,0
+CLI-01063,2024-10-31,Premium,S/141.51,N/D,1,App_Bancaria,Anual_12M,645.0,0,No
+CLI-01064,04/05/2026,Intermedio,S/94.77,38.8 GB,0,Agente_Efectivo,Mensual,670.0,True,No
+CLI-01065,15/02/2023,Intermedio,S/82.42,99.2 GB,1.0,App_Bancaria,Anual_12M,565.0,False,1
+CLI-01066,2023-03-11,Premium,S/114.00,2.8 GB,1,Debito_Automatico,Anual_12M,700.0,False,No
+CLI-01067,25/01/2022,Basico,S/ 59.59,55.3 GB,0,App_Bancaria,Anual_12M,640.0,No,No
+CLI-01068,06/12/2023,Basico,S/ 38.22,113.2 GB,0,Agente_Efectivo,Mensual,593.0,1,0
+CLI-01069,18/07/2024,Intermedio,S/ 85.62,25.9 GB,1.0,App_Bancaria,Anual_12M,510.0,False,0
+CLI-01070,2026-02-10,Basico,S/55.97,38.6 GB,2,Agente_Efectivo,Bianual_24M,576.0,1,Si
+CLI-01071,21/03/2025,Basico,S/ 62.62,30.9 GB,1.0,App_Bancaria,Mensual,520.0,1,1
+CLI-01072,2023-02-15,Basico,S/83.02,37.2 GB,1,Agente_Efectivo,Bianual_24M,689.0,No,No
+CLI-01073,2026-08-26,Basico,S/ 54.61,57.2 GB,3,App_Bancaria,Anual_12M,730.0,0,1
+CLI-01074,31/07/2023,Basico,S/43.79,74.8 GB,,Debito_Automatico,Bianual_24M,702.0,False,No
+CLI-01075,08/08/2025,Ultra,S/169.59,27.5 GB,2.0,Debito_Automatico,Mensual,844.0,False,1
+CLI-01076,2023-05-09,Intermedio,S/58.67,52.1 GB,0,Debito_Automatico,Mensual,579.0,0,0
+CLI-01077,20/10/2025,Intermedio,S/71.56,56.0 GB,1,Agente_Efectivo,Bianual_24M,674.0,0,Si
+CLI-01078,27/09/2021,Premium,S/ 114.99,N/D,,Agente_Efectivo,Mensual,514.0,No,1
+CLI-01079,16/06/2022,Basico,S/ 43.61,39.4 GB,3,App_Bancaria,Bianual_24M,602.0,True,0
+CLI-01080,02/07/2021,Ultra,S/171.73,41.8 GB,2,Debito_Automatico,Mensual,-999,0,1
+CLI-01081,2021-07-19,Premium,S/ 110.03,9.5 GB,1,Debito_Automatico,Anual_12M,671.0,0,No
+CLI-01082,05/12/2022,Basico,S/63.35,44.2 GB,ninguno,Agente_Efectivo,Mensual,588.0,True,0
+CLI-01083,2021-10-04,Intermedio,S/79.90,7.3 GB,1.0,App_Bancaria,Anual_12M,435.0,0,0
+CLI-01084,23/05/2023,Ultra,S/169.79,49.6 GB,1,Debito_Automatico,Mensual,558.0,No,1
+CLI-01085,2025-08-24,Ultra,S/ 165.97,38.9 GB,1,App_Bancaria,Mensual,781.0,0,Si
+CLI-01086,2022-01-15,Intermedio,S/81.76,57.5 GB,2,Debito_Automatico,Mensual,657.0,0,No
+CLI-01087,31/05/2023,Intermedio,S/ 89.80,2.6 GB,1,Debito_Automatico,Mensual,689.0,No,0
+CLI-01088,2026-06-10,Basico,S/ 39.49,58.7 GB,0,App_Bancaria,Bianual_24M,631.0,Si,No
+CLI-01089,2022-03-01,Ultra,S/ 162.00,55.4 GB,,Debito_Automatico,Bianual_24M,604.0,Si,0
+CLI-01090,2026-07-30,Basico,S/ 46.26,79.3 GB,0,Agente_Efectivo,Mensual,621.0,False,No
+CLI-01091,13/03/2023,Ultra,S/ 153.75,10.2 GB,1,Debito_Automatico,Anual_12M,,0,0
+CLI-01092,30/06/2024,Intermedio,,46.9 GB,1,Debito_Automatico,Mensual,521.0,0,Si
+CLI-01093,2022-11-17,Intermedio,S/74.19,7.1 GB,2,Debito_Automatico,Anual_12M,689.0,No,0
+CLI-01094,2024-02-07,Intermedio,S/ 90.39,45.5 GB,2,Agente_Efectivo,Bianual_24M,721.0,False,0
+CLI-01095,2025-09-29,Basico,S/53.05,61.0 GB,1,App_Bancaria,Bianual_24M,602.0,No,No
+CLI-01096,12/02/2026,Basico,S/ 52.22,19.1 GB,2,App_Bancaria,Mensual,573.0,1,0
+CLI-01097,09/04/2024,Basico,S/ 60.11,27.2 GB,0,Debito_Automatico,Anual_12M,553.0,True,0
+CLI-01098,2024-03-26,Basico,S/48.25,32.6 GB,0,Debito_Automatico,Mensual,778.0,False,0
+CLI-01099,2024-11-13,Premium,S/124.59,10.6 GB,0,App_Bancaria,Bianual_24M,579.0,0,No
+CLI-01100,2026-04-09,Intermedio,S/ 78.66,43.7 GB,0,Agente_Efectivo,Mensual,-999,False,1
+CLI-01101,2023-12-03,Basico,S/ 53.08,7.5 GB,0,Agente_Efectivo,Anual_12M,603.0,False,0
+CLI-01102,2022-09-24,Ultra,S/ 162.91,28.0 GB,3,Debito_Automatico,Anual_12M,598.0,No,0
+CLI-01103,11/01/2025,Ultra,,N/D,1,App_Bancaria,Anual_12M,551.0,False,No
+CLI-01104,2026-04-22,Ultra,S/168.29,36.1 GB,4,Agente_Efectivo,Mensual,533.0,No,1
+CLI-01105,01/01/2021,Ultra,S/186.97,12.9 GB,0,App_Bancaria,Bianual_24M,687.0,False,No
+CLI-01106,01/07/2024,Basico,S/ 61.01,15.8 GB,1,Agente_Efectivo,Mensual,531.0,No,1
+CLI-01107,2026-08-08,Intermedio,S/91.48,9.2 GB,1,Debito_Automatico,Anual_12M,662.0,No,No
+CLI-01108,07/06/2026,Premium,S/ 134.73,45.7 GB,0,Agente_Efectivo,Mensual,-999,True,Si
+CLI-01109,27/07/2024,Premium,S/120.96,13.1 GB,ninguno,Agente_Efectivo,Mensual,688.0,No,Si
+CLI-01110,2024-08-14,Basico,S/52.27,52.5 GB,ninguno,Agente_Efectivo,Anual_12M,565.0,0,1
+CLI-01111,25/10/2022,Premium,S/112.49,35.6 GB,0,App_Bancaria,Mensual,717.0,0,No
+CLI-01112,2021-07-27,Basico,S/ 46.11,7.1 GB,0,App_Bancaria,Mensual,607.0,False,Si
+CLI-01113,25/10/2024,Basico,S/57.29,7.6 GB,ninguno,Agente_Efectivo,Mensual,850.0,False,No
+CLI-01114,25/09/2023,Intermedio,S/ 94.35,17.2 GB,ninguno,Debito_Automatico,Mensual,475.0,True,No
+CLI-01115,11/09/2026,Intermedio,S/78.23,28.8 GB,ninguno,Debito_Automatico,Anual_12M,839.0,0,No
+CLI-01116,24/08/2022,Intermedio,S/ 74.50,63.2 GB,2,App_Bancaria,Bianual_24M,609.0,True,No
+CLI-01117,12/06/2024,Basico,S/ 49.91,42.2 GB,3,Agente_Efectivo,Mensual,640.0,True,Si
+CLI-01118,07/12/2021,Ultra,S/177.11,47.7 GB,2,Agente_Efectivo,Mensual,566.0,No,Si
+CLI-01119,12/09/2023,Basico,S/ 32.57,N/D,3,Debito_Automatico,Mensual,479.0,False,No
+CLI-01120,2026-03-25,Basico,S/22.35,9.3 GB,1,Agente_Efectivo,Mensual,572.0,0,0
+CLI-01121,19/12/2023,Ultra,S/163.29,44.8 GB,1,App_Bancaria,Anual_12M,587.0,0,No
+CLI-01122,2023-09-02,Ultra,S/155.25,33.8 GB,1,Debito_Automatico,Anual_12M,636.0,False,No
+CLI-01123,2025-09-02,Premium,S/ 113.80,22.2 GB,2,App_Bancaria,Mensual,721.0,1,No
+CLI-01124,19/12/2023,Premium,S/ 118.13,33.1 GB,1,Debito_Automatico,Mensual,637.0,Si,No
+CLI-01125,2025-03-15,Premium,S/114.46,19.9 GB,1,Debito_Automatico,Mensual,639.0,No,No
+CLI-01126,2026-02-14,Intermedio,S/ 97.33,20.2 GB,1,Agente_Efectivo,Bianual_24M,655.0,True,No
+CLI-01127,12/05/2024,Basico,,40.7 GB,2.0,App_Bancaria,Bianual_24M,462.0,False,No
+CLI-01128,2026-02-05,Intermedio,S/83.51,43.5 GB,1,App_Bancaria,Mensual,470.0,No,1
+CLI-01129,2026-07-05,Intermedio,S/87.37,9.3 GB,0,Agente_Efectivo,Mensual,485.0,No,1
+CLI-01130,03/07/2025,Basico,S/36.23,27.5 GB,0,App_Bancaria,Bianual_24M,586.0,True,0
+CLI-01131,14/10/2025,Premium,S/132.37,23.7 GB,2,Agente_Efectivo,Bianual_24M,452.0,0,Si
+CLI-01132,02/01/2024,Intermedio,S/ 78.99,72.4 GB,ninguno,App_Bancaria,Mensual,558.0,False,Si
+CLI-01133,15/01/2023,Basico,S/ 57.95,51.1 GB,0,Agente_Efectivo,Mensual,497.0,True,1
+CLI-01134,21/07/2025,Basico,S/ 37.04,47.8 GB,1,Debito_Automatico,Mensual,664.0,False,1
+CLI-01135,04/12/2022,Premium,S/101.25,21.6 GB,ninguno,Agente_Efectivo,Anual_12M,659.0,False,No
+CLI-01136,2025-10-23,Basico,S/59.71,14.9 GB,1,Debito_Automatico,Mensual,593.0,False,Si
+CLI-01137,15/12/2024,Premium,S/124.42,19.1 GB,2,Debito_Automatico,Mensual,449.0,False,1
+CLI-01138,12/09/2023,Intermedio,S/69.08,60.6 GB,2,Agente_Efectivo,Anual_12M,599.0,True,1
+CLI-01139,2025-01-15,Intermedio,S/69.46,13.9 GB,2,App_Bancaria,Mensual,650.0,0,1
+CLI-01140,2025-12-23,Intermedio,S/ 93.41,88.9 GB,0,App_Bancaria,Anual_12M,693.0,False,0
+CLI-01141,2021-05-02,Premium,S/ 105.63,34.5 GB,2,App_Bancaria,Mensual,778.0,Si,No
+CLI-01142,27/02/2022,Basico,S/ 69.61,N/D,2,App_Bancaria,Mensual,721.0,False,0
+CLI-01143,2026-02-22,Premium,S/109.09,61.3 GB,2,Debito_Automatico,Anual_12M,635.0,1,0
+CLI-01144,19/09/2024,Intermedio,S/ 87.56,7.4 GB,0,Debito_Automatico,Mensual,594.0,No,No
+CLI-01145,27/06/2025,Basico,S/45.96,N/D,0,Debito_Automatico,Bianual_24M,553.0,True,0
+CLI-01146,17/06/2022,Ultra,S/177.14,40.8 GB,4,App_Bancaria,Anual_12M,742.0,False,1
+CLI-01147,2022-01-31,Premium,S/ 113.37,22.1 GB,2,Debito_Automatico,Mensual,635.0,No,1
+CLI-01148,27/07/2023,Premium,S/ 117.95,46.2 GB,1.0,App_Bancaria,Anual_12M,677.0,False,No
+CLI-01149,2021-12-31,Premium,S/ 120.39,110.6 GB,4,App_Bancaria,Mensual,567.0,0,Si
+CLI-01150,21/11/2023,Premium,S/ 107.87,79.6 GB,1,Debito_Automatico,Bianual_24M,,False,0
+CLI-01151,07/12/2024,Premium,S/128.79,22.0 GB,3,App_Bancaria,Mensual,584.0,0,Si
+CLI-01152,2023-01-15,Premium,S/ 113.74,92.8 GB,3,Agente_Efectivo,Anual_12M,593.0,False,Si
+CLI-01153,23/12/2023,Premium,S/117.16,24.4 GB,0,Debito_Automatico,Mensual,637.0,No,0
+CLI-01154,2020-11-30,Premium,S/107.97,30.3 GB,0,App_Bancaria,Mensual,554.0,0,No
+CLI-01155,13/11/2023,Intermedio,S/ 49.15,42.7 GB,3,App_Bancaria,Bianual_24M,622.0,False,0
+CLI-01156,2021-12-03,Premium,S/117.61,34.9 GB,1,App_Bancaria,Bianual_24M,726.0,False,No
+CLI-01157,2021-07-07,Basico,S/78.85,77.3 GB,3,App_Bancaria,Mensual,469.0,No,0
+CLI-01158,2025-10-05,Ultra,S/179.32,88.6 GB,2,App_Bancaria,Mensual,429.0,Si,Si
+CLI-01159,2022-11-20,Ultra,S/ 169.67,46.3 GB,0,App_Bancaria,Bianual_24M,732.0,0,No
+CLI-01160,04/12/2024,Basico,S/ 46.75,11.9 GB,ninguno,Debito_Automatico,Bianual_24M,488.0,1,0
+CLI-01161,09/08/2021,Premium,S/ 120.17,78.2 GB,ninguno,App_Bancaria,Mensual,586.0,0,0
+CLI-01162,08/12/2022,Basico,S/ 56.47,79.6 GB,1,App_Bancaria,Mensual,675.0,True,0
+CLI-01163,2026-06-26,Basico,S/35.73,33.7 GB,0,Debito_Automatico,Mensual,615.0,False,0
+CLI-01164,2021-01-07,Premium,S/133.27,9.6 GB,ninguno,App_Bancaria,Bianual_24M,,0,No
+CLI-01165,07/08/2025,Basico,S/58.48,N/D,1.0,Agente_Efectivo,Mensual,627.0,False,No
+CLI-01166,2022-08-21,Premium,S/ 128.52,14.7 GB,1,App_Bancaria,Mensual,-999,No,0
+CLI-01167,02/08/2026,Premium,S/ 125.16,31.8 GB,0,App_Bancaria,Anual_12M,,False,No
+CLI-01168,27/08/2023,Intermedio,,76.1 GB,1,Agente_Efectivo,Mensual,,0,1
+CLI-01169,2022-02-03,Basico,S/ 57.97,58.1 GB,0,App_Bancaria,Mensual,715.0,False,No
+CLI-01170,12/02/2025,Basico,S/ 57.00,63.6 GB,ninguno,App_Bancaria,Mensual,665.0,No,0
+CLI-01171,06/09/2025,Intermedio,S/75.65,46.4 GB,2,Agente_Efectivo,Mensual,618.0,0,Si
+CLI-01172,23/10/2023,Ultra,S/ 163.02,38.7 GB,0,Agente_Efectivo,Mensual,538.0,0,1
+CLI-01173,2023-02-28,Intermedio,S/81.12,38.0 GB,2,App_Bancaria,Anual_12M,661.0,1,Si
+CLI-01174,2021-03-13,Basico,S/ 68.49,16.2 GB,3,App_Bancaria,Mensual,592.0,0,No
+CLI-01175,2024-07-15,Intermedio,S/65.03,17.0 GB,,App_Bancaria,Anual_12M,586.0,False,0
+CLI-01176,2022-11-27,Intermedio,,28.5 GB,2,Agente_Efectivo,Bianual_24M,551.0,No,No
+CLI-01177,2023-07-31,Premium,S/ 121.88,25.6 GB,5,App_Bancaria,Anual_12M,710.0,False,No
+CLI-01178,24/07/2022,Basico,S/50.51,38.1 GB,2,Debito_Automatico,Mensual,551.0,False,1
+CLI-01179,17/12/2022,Premium,S/121.98,67.3 GB,ninguno,Agente_Efectivo,Mensual,551.0,0,1
+CLI-01180,05/05/2024,Intermedio,S/82.83,17.0 GB,1,App_Bancaria,Mensual,-999,Si,0
+CLI-01181,2022-05-17,Ultra,S/ 167.22,N/D,1,Debito_Automatico,Mensual,607.0,False,1
+CLI-01182,22/01/2026,Basico,S/67.78,55.0 GB,0,App_Bancaria,Mensual,609.0,Si,No
+CLI-01183,2021-02-03,Intermedio,S/ 60.69,54.1 GB,1,App_Bancaria,Anual_12M,713.0,No,0
+CLI-01184,22/07/2023,Ultra,S/159.96,N/D,2,Agente_Efectivo,Mensual,738.0,No,0
+CLI-01185,20/05/2023,Basico,S/48.66,40.5 GB,0,Debito_Automatico,Mensual,428.0,Si,0
+CLI-01186,20/04/2026,Ultra,S/ 150.18,33.7 GB,1,Agente_Efectivo,Mensual,608.0,False,No
+CLI-01187,12/06/2022,Premium,S/117.79,36.4 GB,2.0,App_Bancaria,Anual_12M,493.0,No,No
+CLI-01188,24/01/2025,Basico,S/ 69.84,93.5 GB,1,Debito_Automatico,Mensual,585.0,True,No
+CLI-01189,2022-04-21,Basico,S/ 50.15,13.7 GB,0,Agente_Efectivo,Anual_12M,619.0,No,No
+CLI-01190,2025-05-18,Premium,S/122.67,32.0 GB,ninguno,App_Bancaria,Mensual,588.0,Si,0
+CLI-01191,2024-04-03,Basico,S/34.78,18.6 GB,3,Debito_Automatico,Bianual_24M,528.0,False,No
+CLI-01192,2020-12-06,Intermedio,S/ 72.50,51.3 GB,0,App_Bancaria,Bianual_24M,523.0,0,No
+CLI-01193,25/02/2025,Basico,S/ 45.40,35.4 GB,3,Agente_Efectivo,Mensual,686.0,False,1
+CLI-01194,2021-05-23,Intermedio,S/76.09,26.0 GB,0,Debito_Automatico,Mensual,758.0,No,0
+CLI-01195,02/09/2025,Basico,S/65.28,30.7 GB,5,Debito_Automatico,Mensual,435.0,False,Si
+CLI-01196,2022-04-15,Ultra,S/ 176.59,52.3 GB,3.0,Debito_Automatico,Mensual,591.0,Si,0
+CLI-01197,2021-08-09,Ultra,S/ 156.56,107.0 GB,ninguno,Debito_Automatico,Anual_12M,686.0,False,No
+CLI-01198,27/08/2025,Ultra,S/172.86,28.9 GB,1,Agente_Efectivo,Bianual_24M,617.0,False,No
+CLI-01199,2024-02-01,Premium,S/125.88,48.0 GB,1,App_Bancaria,Anual_12M,,True,No
+CLI-01200,21/02/2026,Basico,S/63.58,28.7 GB,0,Debito_Automatico,Bianual_24M,577.0,0,0
+CLI-01201,03/05/2025,Premium,S/ 138.87,N/D,1,Debito_Automatico,Mensual,647.0,True,0
+CLI-01202,2026-02-09,Basico,S/37.72,77.7 GB,1,Debito_Automatico,Mensual,592.0,False,No
+CLI-01203,09/06/2026,Basico,S/40.17,26.0 GB,1,Agente_Efectivo,Anual_12M,616.0,0,Si
+CLI-01204,2026-02-19,Basico,S/ 34.81,31.8 GB,3,Debito_Automatico,Mensual,618.0,0,1
+CLI-01205,04/04/2026,Intermedio,S/77.09,16.8 GB,ninguno,Agente_Efectivo,Anual_12M,573.0,No,No
+CLI-01206,30/01/2023,Premium,S/125.50,58.5 GB,0,App_Bancaria,Mensual,693.0,No,0
+CLI-01207,2026-03-07,Premium,S/ 131.75,58.0 GB,ninguno,Debito_Automatico,Mensual,,True,0
+CLI-01208,17/11/2022,Intermedio,S/78.99,31.6 GB,1,Agente_Efectivo,Bianual_24M,530.0,No,0
+CLI-01209,2020-11-19,Basico,S/46.06,N/D,1.0,App_Bancaria,Mensual,821.0,False,0
+CLI-01210,22/04/2024,Ultra,S/171.72,29.0 GB,ninguno,App_Bancaria,Bianual_24M,613.0,0,No
+CLI-01211,08/08/2021,Intermedio,,30.7 GB,0,Agente_Efectivo,Bianual_24M,386.0,0,0
+CLI-01212,19/09/2023,Intermedio,S/ 104.97,56.7 GB,2,Debito_Automatico,Anual_12M,-999,True,0
+CLI-01213,16/03/2021,Basico,S/ 30.61,19.5 GB,ninguno,Debito_Automatico,Anual_12M,733.0,No,0
+CLI-01214,2025-09-04,Premium,S/122.12,42.7 GB,1,App_Bancaria,Anual_12M,661.0,Si,No
+CLI-01215,11/06/2024,Premium,S/ 144.18,21.7 GB,1,Debito_Automatico,Bianual_24M,677.0,Si,No
+CLI-01216,2022-07-31,Basico,S/ 49.98,88.6 GB,1,Debito_Automatico,Mensual,814.0,False,No
+CLI-01217,06/02/2025,Basico,S/47.62,33.5 GB,1.0,Debito_Automatico,Mensual,533.0,Si,No
+CLI-01218,2025-02-28,Premium,S/ 115.61,31.2 GB,1,Debito_Automatico,Anual_12M,632.0,1,No
+CLI-01219,28/02/2021,Premium,S/117.74,30.2 GB,0,Agente_Efectivo,Mensual,797.0,0,0
+CLI-01220,11/06/2021,Basico,S/ 66.37,16.0 GB,3,Debito_Automatico,Mensual,816.0,1,No
+CLI-01221,23/05/2026,Ultra,S/ 143.36,14.7 GB,4.0,App_Bancaria,Mensual,587.0,1,Si
+CLI-01222,2024-01-31,Basico,S/68.30,70.2 GB,2,App_Bancaria,Anual_12M,801.0,1,0
+CLI-01223,15/10/2021,Intermedio,S/62.81,18.8 GB,1,App_Bancaria,Bianual_24M,692.0,1,No
+CLI-01224,12/07/2022,Ultra,S/166.70,24.4 GB,1,Debito_Automatico,Mensual,755.0,0,No
+CLI-01225,14/01/2023,Intermedio,S/74.75,32.7 GB,ninguno,Agente_Efectivo,Bianual_24M,689.0,0,0
+CLI-01226,2026-08-25,Intermedio,S/86.96,33.7 GB,1,Debito_Automatico,Anual_12M,647.0,0,No
+CLI-01227,2023-02-24,Intermedio,S/60.72,35.6 GB,3,Agente_Efectivo,Bianual_24M,819.0,False,Si
+CLI-01228,2026-04-24,Basico,S/55.45,47.8 GB,2.0,Agente_Efectivo,Anual_12M,572.0,True,1
+CLI-01229,2021-07-11,Ultra,S/194.19,N/D,1,App_Bancaria,Anual_12M,791.0,1,No
+CLI-01230,2023-09-01,Intermedio,S/ 63.54,33.3 GB,1,App_Bancaria,Mensual,805.0,1,No
+CLI-01231,2022-03-19,Ultra,S/172.18,10.4 GB,2.0,App_Bancaria,Bianual_24M,-999,0,0
+CLI-01232,2021-05-18,Basico,S/ 41.96,45.7 GB,0,App_Bancaria,Mensual,614.0,No,No
+CLI-01233,2023-11-10,Basico,S/55.01,33.8 GB,2,Agente_Efectivo,Bianual_24M,642.0,False,No
+CLI-01234,2024-02-09,Basico,S/ 50.13,27.0 GB,1,Agente_Efectivo,Bianual_24M,505.0,0,No
+CLI-01235,26/04/2024,Premium,S/112.20,23.7 GB,2,Debito_Automatico,Mensual,579.0,True,No
+CLI-01236,02/11/2020,Intermedio,S/85.75,77.3 GB,0,App_Bancaria,Mensual,676.0,0,No
+CLI-01237,2021-01-31,Premium,S/141.55,32.7 GB,3,Agente_Efectivo,Anual_12M,492.0,No,0
+CLI-01238,11/03/2022,Intermedio,S/77.61,19.5 GB,0,Agente_Efectivo,Mensual,-999,0,No
+CLI-01239,22/10/2022,Ultra,S/178.54,43.2 GB,1,App_Bancaria,Bianual_24M,795.0,False,0
+CLI-01240,31/10/2023,Basico,S/ 34.38,65.6 GB,2.0,App_Bancaria,Mensual,606.0,False,Si
+CLI-01241,2026-05-28,Premium,S/108.42,16.7 GB,2,Debito_Automatico,Mensual,713.0,False,No
+CLI-01242,2026-04-28,Premium,S/ 125.57,69.7 GB,3,Agente_Efectivo,Bianual_24M,671.0,False,0
+CLI-01243,28/06/2024,Premium,S/137.71,13.0 GB,2.0,Debito_Automatico,Anual_12M,592.0,0,0
+CLI-01244,2021-07-30,Premium,S/ 124.17,37.6 GB,2.0,App_Bancaria,Bianual_24M,,No,0
+CLI-01245,2025-05-09,Premium,S/116.14,52.9 GB,1.0,Debito_Automatico,Mensual,635.0,Si,Si
+CLI-01246,2021-01-09,Intermedio,S/79.89,N/D,1,Debito_Automatico,Anual_12M,435.0,0,No
+CLI-01247,2025-07-17,Basico,S/34.90,14.8 GB,3,App_Bancaria,Anual_12M,705.0,0,0
+CLI-01248,10/01/2022,Basico,S/57.15,25.8 GB,1,Agente_Efectivo,Anual_12M,609.0,True,No
+CLI-01249,2021-04-05,Ultra,S/180.49,72.1 GB,2,Debito_Automatico,Anual_12M,-999,0,No
+CLI-01250,10/02/2022,Intermedio,S/ 74.47,44.3 GB,0,App_Bancaria,Anual_12M,655.0,Si,No
